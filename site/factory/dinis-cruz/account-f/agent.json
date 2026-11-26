@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T16:54Z",
+  "updated": "2026-11-26T16:58Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -99,8 +99,8 @@
       "since": "2026-11-26T16:51Z"
     },
     {
-      "what": "cl-6.security: P8 pass at dffb673 WITHDRAWN 16:54 UTC: B1 open (push check trusts local refs/remotes), with cl-6.abp; record 2026-11-26__abp-p8 suspended until both security agents pass one head. Do NOT ask Dinis for 'P8: yes' yet. Still standing (S13): when Dinis adds his key to the website's operator list, he states its fingerprint in his own words to the conductor or cl-6.maestro, for security's check.",
-      "since": "2026-11-26T16:54Z"
+      "what": "P8: cl-6.security@PrompTugal.dinis passes kit v2.2b at b87acff (16:58 UTC; B1 and B2 closed and tested), after withdrawing its dffb673 pass at 16:54. Record 2026-11-26__abp-p8 still waits for cl-6.security@dinis to pass the same head. Do NOT ask Dinis for 'P8: yes' until both passes are in. Still standing (S13): when Dinis adds his key to the website's operator list, he states its fingerprint in his own words to the conductor or cl-6.maestro, for security's check.",
+      "since": "2026-11-26T16:58Z"
     }
   ],
   "sessions_started": [
