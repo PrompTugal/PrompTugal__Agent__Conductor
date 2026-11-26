@@ -1,7 +1,7 @@
 {
  "about": "Proposed by cl-6.conductor@PrompTugal.dinis for cl-6.maestro@dinis, who starts sessions and wakes on account 6 once Dinis says go. Dinis, 26 Nov 2026 by 01:29 UTC: each agent is a separate session on this account with its own repository connected; the conductor only thinks (plans, routes, checks) and has no working repository attached. Sonnet for every session except security (and decisions, the maestro's) on Opus. Each session's first act: make its own key, publish it in its home (site/keys/), add it to the website's board/keys.json, read its board/ in its home. Wave 0 is the ABP agent: no other session starts before its policies exist.",
  "proposed": "2026-11-26T01:29Z",
- "status": "waves 0 to 3 started; 4 proposed; fringe and swarm archived",
+ "status": "every wave started; fringe and swarm archived",
  "sessions": [
   {
    "session": "cl-6.abp@PrompTugal.dinis",
@@ -140,7 +140,7 @@
     "PrompTugal/PrompTugal__News__Startups"
    ],
    "wave": 2,
-   "wake": "not yet: created when the agent reports its setup done",
+   "wake": "trig_01XzFezTDTtLxgbfxCZyxppf: 07:13 and 18:13 Lisbon (set 2026-11-26T02:27Z)",
    "does": "the startups section",
    "id": "session_016CrbJHzEkmE5jEdT2WpVzC",
    "url": "https://claude.ai/code/session_016CrbJHzEkmE5jEdT2WpVzC",
@@ -282,7 +282,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 3,
-   "wake": "not yet",
+   "wake": "trig_0132oarAUsN5cwmgTAbj3GGk: 07:23 and 18:23 Lisbon (set 2026-11-26T02:27Z)",
    "does": "first the places run as one session over the 36 Place homes, each place writing only its own home and its own data/by-place file, until Dinis wants one session per place",
    "id": "session_016CrbJJcoCJnQM6GGY1xC5K",
    "url": "https://claude.ai/code/session_016CrbJJcoCJnQM6GGY1xC5K",
@@ -297,7 +297,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJKnk1brEbFLeWGxmxT",
+   "url": "https://claude.ai/code/session_016CrbJKnk1brEbFLeWGxmxT",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.accountant@PrompTugal.dinis",
@@ -308,7 +311,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJLU6NN6yvcGyy3HEg3",
+   "url": "https://claude.ai/code/session_016CrbJLU6NN6yvcGyy3HEg3",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.ontologist@PrompTugal.dinis",
@@ -319,7 +325,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJKcMRN3j2H1qSP6eGy",
+   "url": "https://claude.ai/code/session_016CrbJKcMRN3j2H1qSP6eGy",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.observability@PrompTugal.dinis",
@@ -330,7 +339,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJK6qQvXVy64vKPgEe1",
+   "url": "https://claude.ai/code/session_016CrbJK6qQvXVy64vKPgEe1",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.devops@PrompTugal.dinis",
@@ -340,8 +352,11 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "wake": "trig_01ABYHjvXT9THELBSgM2PaSg: 08:07 and 19:07 Lisbon (set 2026-11-26T02:27Z)",
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJLNFt4cFTXMVgkqcCY",
+   "url": "https://claude.ai/code/session_016CrbJLNFt4cFTXMVgkqcCY",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.sherpa@PrompTugal.dinis",
@@ -352,7 +367,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJMWWVdEEuaqxoSn7QC",
+   "url": "https://claude.ai/code/session_016CrbJMWWVdEEuaqxoSn7QC",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.synthetic@PrompTugal.dinis",
@@ -363,7 +381,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJMS4781bAVGCP7qfap",
+   "url": "https://claude.ai/code/session_016CrbJMS4781bAVGCP7qfap",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.rights@PrompTugal.dinis",
@@ -374,7 +395,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJJ4rKxNqiEKKhAaWAT",
+   "url": "https://claude.ai/code/session_016CrbJJ4rKxNqiEKKhAaWAT",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.translator@PrompTugal.dinis",
@@ -385,7 +409,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJHy25niw9qrWwrVc9S",
+   "url": "https://claude.ai/code/session_016CrbJHy25niw9qrWwrVc9S",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.telemetry@PrompTugal.dinis",
@@ -396,7 +423,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJKQ8xgNBKsWaaetm7x",
+   "url": "https://claude.ai/code/session_016CrbJKQ8xgNBKsWaaetm7x",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.historian@PrompTugal.dinis",
@@ -407,7 +437,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJLLxVYAM8QwqHBV7aM",
+   "url": "https://claude.ai/code/session_016CrbJLLxVYAM8QwqHBV7aM",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.researcher@PrompTugal.dinis",
@@ -418,7 +451,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJMo1RxSSek8dG1KAgr",
+   "url": "https://claude.ai/code/session_016CrbJMo1RxSSek8dG1KAgr",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.outreach@PrompTugal.dinis",
@@ -429,7 +465,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJKSAFT2v7Mkhpc4uJd",
+   "url": "https://claude.ai/code/session_016CrbJKSAFT2v7Mkhpc4uJd",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.backup@PrompTugal.dinis",
@@ -440,7 +479,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJLUcdAqJPbap3cW4nW",
+   "url": "https://claude.ai/code/session_016CrbJLUcdAqJPbap3cW4nW",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.investors@PrompTugal.dinis",
@@ -451,7 +493,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJJDSkkAQSxQ7VDxwzv",
+   "url": "https://claude.ai/code/session_016CrbJJDSkkAQSxQ7VDxwzv",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.customers@PrompTugal.dinis",
@@ -461,8 +506,11 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
+   "wake": "trig_01HfKscFoa5SG6YQjcfg92mV: 08:43 and 19:43 Lisbon (set 2026-11-26T02:27Z)",
+   "does": "its role in the website's CLAUDE.md team table",
+   "id": "session_016CrbJKeq1CbrSckUAYEf2f",
+   "url": "https://claude.ai/code/session_016CrbJKeq1CbrSckUAYEf2f",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.reviewer@PrompTugal.dinis",
@@ -473,7 +521,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "twin of reviewer@PrompTugal.vicky"
+   "does": "twin of reviewer@PrompTugal.vicky",
+   "id": "session_016CrbJMGozMvJhLHPUTvy9j",
+   "url": "https://claude.ai/code/session_016CrbJMGozMvJhLHPUTvy9j",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.curator@PrompTugal.dinis",
@@ -484,7 +535,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "twin of curator@PrompTugal.vicky"
+   "does": "twin of curator@PrompTugal.vicky",
+   "id": "session_016CrbJLsMrLvFQSaXufU7Xs",
+   "url": "https://claude.ai/code/session_016CrbJLsMrLvFQSaXufU7Xs",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.checker@PrompTugal.dinis",
@@ -495,7 +549,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "twin of checker@PrompTugal.vicky"
+   "does": "twin of checker@PrompTugal.vicky",
+   "id": "session_016CrbJKoRCCouKXS7AP8XFe",
+   "url": "https://claude.ai/code/session_016CrbJKoRCCouKXS7AP8XFe",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.programme@PrompTugal.dinis",
@@ -506,7 +563,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "twin of programme@PrompTugal.vicky"
+   "does": "twin of programme@PrompTugal.vicky",
+   "id": "session_016CrbJLwnkTq2kxfioHp6py",
+   "url": "https://claude.ai/code/session_016CrbJLwnkTq2kxfioHp6py",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   },
   {
    "session": "cl-6.analyst@PrompTugal.dinis",
@@ -517,7 +577,10 @@
    ],
    "wave": 4,
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "twin of analyst@PrompTugal.vicky"
+   "does": "twin of analyst@PrompTugal.vicky",
+   "id": "session_016CrbJKUGGAH6r8MhbuAxyV",
+   "url": "https://claude.ai/code/session_016CrbJKUGGAH6r8MhbuAxyV",
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
   }
  ],
  "cost": {
