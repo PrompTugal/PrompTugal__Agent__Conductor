@@ -3,18 +3,18 @@
   "owner": "dinis-cruz",
   "account": "account-f",
   "account_id": "cl-6",
-  "role": "The conductor of PrompTugal.news: the plan, the board, who does what; runs the agents as sub-agents; seeds their homes",
-  "session": "https://claude.ai/code/session_016CrbJKttr9TiHHDsuGnmF1",
-  "started_by": "cl-6.maestro@dinis, at Dinis's word, 2026-11-25T22:48Z",
+  "role": "The conductor of PrompTugal.news: the plan, the board, who does what; thinks and routes by message; never builds, writes another agent's files or runs agents as sub-agents",
+  "session": "https://claude.ai/code/session_016CrbJMiN8eUtML9vvvGCVt",
+  "started_by": "cl-6.maestro@dinis (session_016CrbJLv54Kh4CSTzagW2G3), at Dinis's word ('yes, start them', 26 Nov), under decision https://github.com/SovereignWebsite/Site__Agent__Decisions/blob/dev/site/factory/dinis-cruz/account-f/records/2026-11-26__conductor-reset.json (revision 2)",
   "home": "PrompTugal/PrompTugal__Agent__Conductor",
-  "work": "PrompTugal/PrompTugal__News__Website",
+  "work": "by message to the agents who own each repository; this session is attached only to PrompTugal/PrompTugal__Agent__Conductor",
   "key": "site/keys/cl-6.conductor.json",
-  "signing_fingerprint": "sha256:c0721eb39088f8e4",
-  "encryption_fingerprint": "sha256:313f67e107567ad1",
+  "signing_fingerprint": "sha256:93d6e3a51260713f",
+  "encryption_fingerprint": "sha256:667dc849e2e83688",
   "model": "opus",
-  "state": "thinking only: plans, routes, checks, starts sessions and wakes at Dinis's word",
-  "focus": "waves 1 and 2 setting up; push access to each work repository waits on Dinis in each session; wakes as each setup finishes",
-  "updated": "2026-11-26T06:26Z",
+  "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
+  "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
+  "updated": "2026-11-26T16:39Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -79,6 +79,10 @@
     {
       "at": "2026-11-26T06:26Z",
       "event": "Dinis's home page feedback live in v0.1.2296 (cl-6.dev, reviewed by cl-6.security and the designer): dates on every card, map pins by recency, Algarve grid capped with 'All 17 towns', header wraps; the lead is front-page.json's"
+    },
+    {
+      "at": "2026-11-26T16:39Z",
+      "event": "new conductor session (session_016CrbJMiN8eUtML9vvvGCVt), attached only to this repository (security A3); new key sha256:93d6e3a51260713f in site/keys/cl-6.conductor.json (9041407), the old session key superseded"
     }
   ],
   "waiting_on": [
@@ -236,5 +240,6 @@
       "what": "Security S9 (medium): 109 active keys.json entries with no key, mostly ended sessions; dev prepares one superseding commit for Dinis to sign once his key is listed.",
       "since": "2026-11-26T16:13Z"
     }
-  ]
+  ],
+  "previous_session": "https://claude.ai/code/session_016CrbJKttr9TiHHDsuGnmF1"
 }

@@ -1,6 +1,9 @@
-# Now (2026-11-26T16:07Z)
+# Now (2026-11-26T16:39Z)
 
-Hand-over from session_016CrbJKttr9TiHHDsuGnmF1. In flight:
+Session: https://claude.ai/code/session_016CrbJMiN8eUtML9vvvGCVt (started by cl-6.maestro under D-CONDUCTOR-RESET revision 2), attached only to this repository. Key: sha256:93d6e3a51260713f (signing), sha256:667dc849e2e83688 (encryption), commit 9041407. D-CONDUCTOR-RESET carried out on this side; cl-6.maestro archives the old session once told; the website's board/keys.json entry for the new key is cl-6.dev's to add, by message.
+
+## Hand-over from session_016CrbJKttr9TiHHDsuGnmF1 (16:07Z)
+In flight:
 - **D-CONDUCTOR-RESET**: asked of cl-6.decisions (first test of Dinis's route: decisions agent decides simple things, signs, maestro acts). Track its answer; if it needs a scope line from Dinis, put it to him.
 - **Second delegation line** for Dinis in cl-6.decisions' session (widenings), so P1 to P14 can be signed; P8 (hooks in every repo) first, per security's A1 and A2.
 - **Access review** (cl-6.security home docs/security/2026-11-26-access-review.md, b3a2ac1): A1 one GitHub account for all agents; A1b riskmandate-agent in the team (Dinis: keep or remove); A2 all sessions hold add_repo and trigger tools; A4 infra grant now written; A7 dev to propose a path check; A8 nine SovereignWebsite/@dinis sessions without a role.
