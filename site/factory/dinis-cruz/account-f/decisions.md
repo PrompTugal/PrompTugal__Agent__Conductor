@@ -27,3 +27,4 @@
 - Dinis, same message: an admin page on the site showing every agent that is running. PT: /newsroom/agents/, built by cl-6.dev from the homes' agent.json and sessions.json.
 - Dinis, 26 Nov 2026 about 15:50 UTC: "yes we need that place (for London)". London becomes cl-6.places' 37th place (PrompTugal__Agent__Place__London by cl-6.infra; grant by cl-6.abp; site by cl-6.dev). Relayed 2026-11-26T15:49Z.
 - Dinis, about 14:30 UTC: a thread on the London Tube strikes with a visualisation; cl-6.correspondent sources, cl-6.journalist publishes, neutral until Dinis says what "our support" means.
+- Dinis, 26 Nov 2026 about 16:00 UTC: "ask the accountant to keep a really close track on the cost reductions ... data to sell that service to others / specially the impact of the regular session resets". Owner: cl-6.accountant@dinis (account-wide ledger), with cl-6.accountant@PrompTugal.dinis and cl-6.telemetry; figures private until Dinis says.
