@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T16:58Z",
+  "updated": "2026-11-26T17:12Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -87,6 +87,10 @@
     {
       "at": "2026-11-26T16:52Z",
       "event": "cl-6.dev's commit 048e4f6d9 adds the new conductor key to the website's board/keys.json; cleared by cl-6.security against 9041407"
+    },
+    {
+      "at": "2026-11-26T17:12Z",
+      "event": "cl-6.dev: new conductor key live in the website's board/keys.json as conductor-promptugal-cl-6-2 (v0.1.2329, reviewed by cl-6.security); old conductor-promptugal-cl-6 superseded, valid for what it signed. Operator list newsroom/tools/operator-keys.json live, empty, with its own gate rule (first operator added by a commit signed by that key; later changes need a listed key; no dev or conductor key suffices). S9: 87 ended-session keys superseded (v0.1.2328). With security, not released: /newsroom/activity/, free /weather/ with APL and AEMTG camera links, W1 and S12."
     }
   ],
   "waiting_on": [
@@ -99,7 +103,7 @@
       "since": "2026-11-26T16:51Z"
     },
     {
-      "what": "P8: cl-6.security@PrompTugal.dinis passes kit v2.2b at b87acff (16:58 UTC; B1 and B2 closed and tested), after withdrawing its dffb673 pass at 16:54. Record 2026-11-26__abp-p8 still waits for cl-6.security@dinis to pass the same head. Do NOT ask Dinis for 'P8: yes' until both passes are in. Still standing (S13): when Dinis adds his key to the website's operator list, he states its fingerprint in his own words to the conductor or cl-6.maestro, for security's check.",
+      "what": "P8: cl-6.security@PrompTugal.dinis passes kit v2.2b at b87acff (16:58 UTC; B1 and B2 closed and tested), after withdrawing its dffb673 pass at 16:54. Record 2026-11-26__abp-p8 still waits for cl-6.security@dinis to pass the same head. Do NOT ask Dinis for 'P8: yes' until both passes are in. Still standing (S13): when Dinis adds his key to the website's operator list, he states its fingerprint in his own words to the conductor or cl-6.maestro, for security's check. (17:11 UTC: cl-6.dev reports cl-6.decisions says P8 is reinstated and the website and dev's home are first for CI check wiring; not yet seen from security that both passes are in, so still not asked of Dinis.)",
       "since": "2026-11-26T16:58Z"
     }
   ],
