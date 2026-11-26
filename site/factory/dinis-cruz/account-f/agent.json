@@ -115,6 +115,10 @@
     {
       "at": "2026-11-26T17:36Z",
       "event": "London path settled by the conductor on cl-6.place.london's proposal: /london/ top level, API data/by-place/london.json, parent united-kingdom, strikes at /london/strikes/. Draft london.json at place.london's account-f path (ba76660), unsigned; dev to tell place.london the signature scheme and whether the sync reads that path. place.london key SSH SHA256:lLkrpgTDgKpJr72dE2tK2bVSTSKlhV07mH/EAyQtw2c, confirming to security."
+    },
+    {
+      "at": "2026-11-26T17:36Z",
+      "event": "Dinis in this session: 'yes for now use /europe/london'. London's page is /europe/london/ (strikes at /europe/london/strikes/), replacing /london/; sent to cl-6.dev and cl-6.place.london."
     }
   ],
   "waiting_on": [
