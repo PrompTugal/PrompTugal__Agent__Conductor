@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T19:55Z",
+  "updated": "2026-11-26T19:56Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -191,6 +191,10 @@
     {
       "at": "2026-11-26T19:55Z",
       "event": "cl-6.rights wake 19:53 (ed3de74): no HOLD; /weather/ accurate in v0.1.2339; all IPMA feeds and the cams feed on data.promptugal.news last read 21 Nov (waits on News__Data #1)."
+    },
+    {
+      "at": "2026-11-26T19:56Z",
+      "event": "cl-6.designer reworded the explainer (0c09a13): 'Every page still opens', 'while every page stays open to everyone'; same fix in its chip spec; it is telling cl-6.dev about any page text built from the old wording. Commit sent to cl-6.decisions@dinis for the content record."
     }
   ],
   "waiting_on": [
