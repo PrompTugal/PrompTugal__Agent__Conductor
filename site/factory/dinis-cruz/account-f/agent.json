@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T20:11Z",
+  "updated": "2026-11-26T20:12Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -245,6 +245,10 @@
     {
       "what": "Content on the website has no live owner (cl-6.journalist waits on Dinis attaching the website). The tagline fix ('PrompTugal.news: Portugal's news, town by town') and the new /pay-for-what-you-read/ page wait on a one-off grant for cl-6.dev: Dinis's word in cl-6.abp's session, or a cl-6.decisions record quoting his words (asked 19:57). Who owns content/** long term is Dinis's. cl-6.decisions@dinis (19:56) is putting one line for each write to Dinis in its session; it signs a one-off record if he says them. Long-term content owner and attaching the website (push) to cl-6.journalist and cl-6.devops are his.",
       "since": "2026-11-26T19:56Z"
+    },
+    {
+      "what": "Meter versus copy (cl-6.dev, 20:12): since 17 Nov min_share = 1 in data/billing/prices.json, so a page costs its whole price (1 to 3p) on opening; but /account/, the designer's explainer and chip spec, and Dinis's brief of today say share-read with a tenth minimum. Dinis chooses: (a) keep whole-price-on-open and fix the copy, or (b) share-read, min_share 0.1 (record, file owner, accountant checks totals: 3p article 0.3p to open; £5 about 1,600 openings or 166 full reads). Sent to cl-6.decisions@dinis 20:13; explainer page held until then.",
+      "since": "2026-11-26T20:12Z"
     }
   ],
   "sessions_started": [
