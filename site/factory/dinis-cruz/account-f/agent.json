@@ -103,7 +103,7 @@
       "since": "2026-11-26T02:38Z"
     },
     {
-      "what": "THE ONE EXCEPTION, ready (2026-11-26T06:22Z, passed by cl-6.security at its final head ddc867b (replacing the earlier pass at f3a2b47)): (1) merge PrompTugal__IaC #25; (2) add to the GitHub App's PrompTugal installation: Commit statuses write, Variables write, Pull requests write, Workflows write, Actions read; (3) turn on #25's two schedules (or tell cl-6.infra to). After that no person is in the loop for section keys or gate changes. Review: https://github.com/PrompTugal/PrompTugal__Agent__Security/blob/dev/docs/security/reviews/2026-11-26-iac-pr25.md",
+      "what": "THE ONE EXCEPTION, ready (2026-11-26T06:22Z, passed by cl-6.security at its final head 9c5dc25 (security passed 11:14 UTC; replaces ddc867b, adds News__Data) (replacing the earlier pass at f3a2b47)): (1) merge PrompTugal__IaC #25; (2) add to the GitHub App's PrompTugal installation: Commit statuses write, Variables write, Pull requests write, Workflows write, Actions read; (3) turn on #25's two schedules (or tell cl-6.infra to). After that no person is in the loop for section keys or gate changes. Review: https://github.com/PrompTugal/PrompTugal__Agent__Security/blob/dev/docs/security/reviews/2026-11-26-iac-pr25.md",
       "who": "Dinis",
       "since": "2026-11-26T02:38Z"
     },

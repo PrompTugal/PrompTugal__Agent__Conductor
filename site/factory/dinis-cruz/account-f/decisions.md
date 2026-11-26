@@ -18,3 +18,4 @@
 - 2026-11-26T06:12Z: translations: en-GB and pt-PT first, machine-translated cards marked (cl-6.translator's proposal).
 - 2026-11-26T06:12Z: media outlet records carry the outlet only, no named staff, until Jose's staff-data question is settled; outlets' public newsroom addresses allowed under CLAUDE.md 'Contacts', through dev and security.
 - 2026-11-26T06:12Z: cl-6.analyst takes over A5 (firms and AI).
+- 2026-11-26T11:15Z: live feeds for the iOS app: dev adds status fields (summit over, as_of, withheld_count); place events in agenda.json only after cl-6.rights says yes (commercial_use unclear, billing rule of 18 Nov).
