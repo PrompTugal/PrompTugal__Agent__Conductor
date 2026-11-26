@@ -84,7 +84,7 @@
    "since": "2026-11-26T02:38Z"
   },
   {
-   "what": "ONE LINE in cl-6.abp's session (session_016CrbJK3xXBhUMA6rucuPPd): \"yes to P4, P5 and P6\" (P4: cl-6.conductor starts the PrompTugal sessions and wakes; P5: history/** in every agent's home; P6: a section agent pushes a key-* branch and opens one PR in its own repository for a key or gate change cl-6.security approves). Goes with the merge of IaC #25 (the one exception).",
+   "what": "ONE LINE in cl-6.abp's session (session_016CrbJK3xXBhUMA6rucuPPd): \"yes to P4, P5, P6 and P7\" (P4: cl-6.conductor starts the PrompTugal sessions and wakes; P5: history/** in every agent's home; P6: a section agent pushes a key-* branch and opens one PR in its own repository for a key or gate change cl-6.security approves). Goes with the merge of IaC #25 (the one exception). P7: the twins write Vicky's desks (desks/analyst-vicky/**, reviewer-vicky/**, checker-vicky/**, others after a check) and reviewer the covers path design/infographics/out/**; it matches Dinis's 26 Nov word to do everything here and then clean up Vicky's environment. A5 waits on it.",
    "who": "Dinis",
    "since": "2026-11-26T06:23Z"
   },
