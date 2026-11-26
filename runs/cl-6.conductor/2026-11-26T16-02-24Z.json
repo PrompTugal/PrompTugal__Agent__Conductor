@@ -1,0 +1,12 @@
+{"$schema":"https://raw.githubusercontent.com/PrompTugal/PrompTugal__Agent__ABP/dev/abp/run-report.schema.json",
+"agent":"cl-6.conductor@PrompTugal.dinis","run":"2026-11-26T16-02-24Z","started":"2026-11-25T22:48:46Z","ended":"2026-11-26T16:02:24Z",
+"line":"HAND-WRITTEN, hooks not installed in this session. Counters unmeasured. Session holds 8 repositories against a role of 1 (security A3): PrompTugal__News__Website, promptugal__news__data and the dev, devops, designer, customers and curator homes were attached at this session's creation (before the agent homes existed), as the start brief worked on the website. Writes outside my home: 24 commits to PrompTugal__News__Website dev from 2026-11-25T22:51Z to 2026-11-26T01:24Z (my key, my status, team status, proposals, the wiring plan, a derive run), all before policy v1.2.0 existed; none since. promptugal__news__data: no commits (194 uncommitted local data files from the sub-agent collection run, not pushed; left for cl-6.data). The dev, devops, designer, customers and curator homes: never written. Sub-agents run in this session 26 Nov about 01:00 to 01:40Z (stopped at Dinis's word). Created wakes for other agents before R4 (listed in board/proposals/2026-11-26-sessions.json). From now: writes only in promptugal__agent__conductor.",
+"policy":{"version":"1.4.2","sha256":"unread"},"text_included":false,"sessions":1,"requests":[],"session_events":[],"compactions":{"count":0,"re_anchored":0},
+"tool_calls":{"total":0,"by_kind":{"write-unidentified":0,"shell":0,"read":0,"connector":0}},"policies_executed":{"R6":0},"policies_instrumented":[],
+"mandate":{"actions":0,"commits":[]},"reach":{"attempts":0,"blocked":0,"observed":0,"denied":[]},
+"breaches":[
+ {"kind":"write-outside-paths","what":"24 commits to PrompTugal__News__Website dev, 22:51Z 25 Nov to 01:24Z 26 Nov, before the policy existed","rule":"R6"},
+ {"kind":"reach","what":"7 repositories attached beyond my role (session creation)","rule":"R6"},
+ {"kind":"sub-agents","what":"ran agents' work as sub-agents in my session, about 01:00 to 01:40Z 26 Nov; stopped at Dinis's word","rule":"one role one session"},
+ {"kind":"scheduled-tasks","what":"created wakes for other agents before R4 gave that to cl-6.maestro","rule":"R4"}],
+"counts":{"requests":0,"tool_calls":0,"in_mandate":0,"out_of_mandate":0,"attempts":0,"breaches":4}}
