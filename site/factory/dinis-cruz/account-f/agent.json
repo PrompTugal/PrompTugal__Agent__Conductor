@@ -177,6 +177,10 @@
     {
       "what": "ABP list for Dinis is P1 to P11 (P9 = one key-PR proposal for all section repos; P11 = per-role path gaps), plus the website attach for accountant and the harness refusals of customers' and designer's own keys.json commits.",
       "since": "2026-11-26T11:20Z"
+    },
+    {
+      "what": "Security's one line (low): delete branch work/investors.packs in PrompTugal__News__Website; it holds a private person's first name and surname initial in run-report request heads and nothing dev needs (head 6b61e9442).",
+      "since": "2026-11-26T11:23Z"
     }
   ],
   "sessions_started": [
