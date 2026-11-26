@@ -55,11 +55,12 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 1,
-   "wake": "not yet: created when the agent reports its setup done",
+   "wake": "trig_01BUpw79RhptKc9Y4AXotyZj: 09:47 and 20:47 Lisbon",
    "does": "pre- and post-review of every commit across the PrompTugal repositories; HOLD",
    "id": "session_016CrbJKgXxEmneR8fKwoPhS",
    "url": "https://claude.ai/code/session_016CrbJKgXxEmneR8fKwoPhS",
-   "started": "2026-11-26T01:43Z by cl-6.conductor"
+   "started": "2026-11-26T01:43Z by cl-6.conductor",
+   "setup": "done, website push still refused"
   },
   {
    "session": "cl-6.correspondent@PrompTugal.dinis",
@@ -251,11 +252,12 @@
     "PrompTugal/PrompTugal__News__Fringe"
    ],
    "wave": 2,
-   "wake": "not yet: created when the agent reports its setup done",
+   "wake": "none",
    "does": "the fringe section",
    "id": "session_016CrbJKaYmvvH9W9jBkyyHE",
    "url": "https://claude.ai/code/session_016CrbJKaYmvvH9W9jBkyyHE",
-   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session",
+   "state": "archived at Dinis's word (relayed by cl-6.maestro): history moved; no wake (recorded 2026-11-26T02:15Z)"
   },
   {
    "session": "cl-6.swarm@PrompTugal.dinis",
@@ -265,11 +267,12 @@
     "PrompTugal/PrompTugal__News__Swarm"
    ],
    "wave": 2,
-   "wake": "not yet: created when the agent reports its setup done",
+   "wake": "none",
    "does": "the swarm section",
    "id": "session_016CrbJNB2WPgCAvU2KSmRmY",
    "url": "https://claude.ai/code/session_016CrbJNB2WPgCAvU2KSmRmY",
-   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session",
+   "state": "archived at Dinis's word (relayed by cl-6.maestro): history moved; no wake (recorded 2026-11-26T02:15Z)"
   },
   {
    "session": "cl-6.places@PrompTugal.dinis",
