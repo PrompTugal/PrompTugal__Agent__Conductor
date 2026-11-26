@@ -1,0 +1,458 @@
+{
+ "about": "Proposed by cl-6.conductor@PrompTugal.dinis for cl-6.maestro@dinis, who starts sessions and wakes on account 6 once Dinis says go. Dinis, 26 Nov 2026 about 02:20 UTC: each agent is a separate session on this account with its own repository connected; the conductor only thinks (plans, routes, checks) and has no working repository attached. Sonnet for every session except security (and decisions, the maestro's) on Opus. Each session's first act: make its own key, publish it in its home (site/keys/), add it to the website's board/keys.json, read its board/ in its home.",
+ "proposed": "2026-11-26T02:30Z",
+ "status": "proposed",
+ "sessions": [
+  {
+   "session": "cl-6.journalist@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Journalist",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 1,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "research, curation, writing, checking, signing, publishing; the twins of Vicky's curator, checker, reviewer, programme and analyst brief it until they have sessions"
+  },
+  {
+   "session": "cl-6.dev@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Dev",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 1,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the build, the gate, features, CI; reviews nothing it did not write without security"
+  },
+  {
+   "session": "cl-6.security@PrompTugal.dinis",
+   "model": "opus",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Security",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 1,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "pre- and post-review of every commit across the PrompTugal repositories; HOLD"
+  },
+  {
+   "session": "cl-6.correspondent@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Correspondent",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 1,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the front page and the beats"
+  },
+  {
+   "session": "cl-6.data@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Data",
+    "PrompTugal/PrompTugal__News__Data"
+   ],
+   "wave": 2,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the collectors, twin of data.b"
+  },
+  {
+   "session": "cl-6.weather@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Weather",
+    "PrompTugal/PrompTugal__News__Weather"
+   ],
+   "wave": 2,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the weather section"
+  },
+  {
+   "session": "cl-6.travel@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Travel",
+    "PrompTugal/PrompTugal__News__Travel"
+   ],
+   "wave": 2,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the travel section"
+  },
+  {
+   "session": "cl-6.civic@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Civic",
+    "PrompTugal/PrompTugal__News__Civic"
+   ],
+   "wave": 2,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the civic section"
+  },
+  {
+   "session": "cl-6.startups@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Startups",
+    "PrompTugal/PrompTugal__News__Startups"
+   ],
+   "wave": 2,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the startups section"
+  },
+  {
+   "session": "cl-6.library@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Library",
+    "PrompTugal/PrompTugal__News__Library"
+   ],
+   "wave": 2,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the library section"
+  },
+  {
+   "session": "cl-6.signals@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Signals",
+    "PrompTugal/PrompTugal__News__Signals"
+   ],
+   "wave": 2,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the signals section"
+  },
+  {
+   "session": "cl-6.cyber@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Cyber",
+    "PrompTugal/PrompTugal__News__Cyber"
+   ],
+   "wave": 2,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the cyber section"
+  },
+  {
+   "session": "cl-6.events@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Events",
+    "PrompTugal/PrompTugal__News__Events"
+   ],
+   "wave": 2,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the events section"
+  },
+  {
+   "session": "cl-6.live@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Live",
+    "PrompTugal/PrompTugal__News__Live"
+   ],
+   "wave": 2,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the live section"
+  },
+  {
+   "session": "cl-6.videos@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Videos",
+    "PrompTugal/PrompTugal__News__Videos"
+   ],
+   "wave": 2,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the videos section"
+  },
+  {
+   "session": "cl-6.bulletins@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Bulletins",
+    "PrompTugal/PrompTugal__News__Bulletins"
+   ],
+   "wave": 2,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the bulletins section"
+  },
+  {
+   "session": "cl-6.fringe@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Fringe",
+    "PrompTugal/PrompTugal__News__Fringe"
+   ],
+   "wave": 2,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the fringe section"
+  },
+  {
+   "session": "cl-6.swarm@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Swarm",
+    "PrompTugal/PrompTugal__News__Swarm"
+   ],
+   "wave": 2,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "the swarm section"
+  },
+  {
+   "session": "cl-6.places@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Place__Algarve",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 3,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "first the places run as one session over the 36 Place homes, each place writing only its own home and its own data/by-place file, until Dinis wants one session per place"
+  },
+  {
+   "session": "cl-6.designer@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Designer",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.accountant@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Accountant",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.abp@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__ABP",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.ontologist@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Ontologist",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.observability@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Observability",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.devops@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__DevOps",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.sherpa@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Sherpa",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.synthetic@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Synthetic",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.rights@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Rights",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.translator@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Translator",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.telemetry@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Telemetry",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.historian@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Historian",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.researcher@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Researcher",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.outreach@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Outreach",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.backup@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Backup",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.investors@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Investors",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.customers@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Customers",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "its role in the website's CLAUDE.md team table"
+  },
+  {
+   "session": "cl-6.reviewer@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Reviewer",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "twin of reviewer@PrompTugal.vicky"
+  },
+  {
+   "session": "cl-6.curator@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Curator",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "twin of curator@PrompTugal.vicky"
+  },
+  {
+   "session": "cl-6.checker@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Checker",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "twin of checker@PrompTugal.vicky"
+  },
+  {
+   "session": "cl-6.programme@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Programme",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "twin of programme@PrompTugal.vicky"
+  },
+  {
+   "session": "cl-6.analyst@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__Analyst",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 4,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "twin of analyst@PrompTugal.vicky"
+  }
+ ]
+}
