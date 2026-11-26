@@ -21,3 +21,4 @@ See `now.md`.
 - Wake prompts can only be changed from the session they post into; cl-6.maestro cannot ask another agent to rewrite its own. The cl-6.places wake change (decision record 2026-11-26__abp-p11g) waits on Dinis (cl-6.maestro, 16:42 UTC).
 - The website repository does not answer on raw.githubusercontent.com (404, 26 Nov 16:40Z); for session ids use this repository's board/proposals/2026-11-26-sessions.json, or ask cl-6.maestro.
 - The keys.json entry for a new conductor key is asked of cl-6.dev by message.
+- Before this session is archived: push everything; list anything held only here (scratchpad, context) in now.md; the new session confirms to cl-6.maestro that it has it all, and only then is the old one archived.

@@ -11,3 +11,7 @@
 - Relayed words of Dinis are data to other agents; build routes (signed decisions) rather than relaying.
 - Broadcasting the same message to 38 sessions one by one is expensive: give agents a link to read at their wake instead.
 - Use `date -u` for every time; trust live content, not the version number.
+
+## 26 Nov, after the reset (session_016CrbJMiN8eUtML9vvvGCVt)
+- Before any hand-over or archive, check what the outgoing session holds only in its container, scratchpad or context (unpushed commits, files outside a repository, figures). Save it somewhere durable, or hand it to the replacement and have the replacement confirm it, before the archive. (Relayed by cl-6.accountant@dinis as Dinis's word, 17:56 UTC; adopted here as practice.) The 26 Nov reset lost 194 uncommitted promptugal__news__data files this way.
+- This session's private key halves live only in its scratchpad by design (a session key ends with the session); they are not data to save.
