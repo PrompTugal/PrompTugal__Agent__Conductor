@@ -40,11 +40,12 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 1,
-   "wake": "not yet: created when the agent reports its setup done",
+   "wake": "trig_01PrmumHe2QqRkn2P6fridbx: 07:37 and 18:37 Lisbon (set 2026-11-26T01:51Z)",
    "does": "the build, the gate, features, CI; reviews nothing it did not write without security",
    "id": "session_016CrbJKEPqF3pNfbncgHqvy",
    "url": "https://claude.ai/code/session_016CrbJKEPqF3pNfbncgHqvy",
-   "started": "2026-11-26T01:43Z by cl-6.conductor"
+   "started": "2026-11-26T01:43Z by cl-6.conductor",
+   "setup": "done 2026-11-26T01:50Z"
   },
   {
    "session": "cl-6.security@PrompTugal.dinis",
