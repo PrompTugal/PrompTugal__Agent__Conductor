@@ -187,10 +187,6 @@
       "since": "2026-11-26T13:56Z"
     },
     {
-      "what": "Studio and Instagram: recommend widening cl-6.videos to explainer videos and short clips (studio), and one new cl-6.social (Instagram drafts; a person posts; connecting an account is a connector, Dinis's). Needs Dinis's yes; then infra makes PrompTugal__Agent__Social and the maestro starts it.",
-      "since": "2026-11-26T13:56Z"
-    },
-    {
       "what": "Security access review (cl-6.security home docs/security/2026-11-26-access-review.md, d839570): A1 one team with push on 91 of 100 repos (infra); A2 all 53 sessions hold add_repo and scheduled-task tools in auto mode (abp); A3 conductor holds 8 repos for a grant of 1: fix is a new conductor session attached only to promptugal__agent__conductor, with this one handing over; A4 infra has no written grant; A8 nine SovereignWebsite sessions, two conductors share a repo, a second security and accountant.",
       "since": "2026-11-26T15:59Z"
     },
@@ -209,6 +205,10 @@
     {
       "what": "Maestro's create_session refused by its session's permission check: Dinis to allow it (D-CONDUCTOR-RESET signed, 05b0e60), and to decide whether the maestro may start sessions without a prompt.",
       "since": "2026-11-26T16:10Z"
+    },
+    {
+      "what": "Studio and Instagram: recommend widening cl-6.videos to explainer videos and short clips (studio), and one new cl-6.social (Instagram drafts; a person posts; connecting an account is a connector, Dinis's). Needs Dinis's yes; then infra makes PrompTugal__Agent__Social and the maestro starts it.",
+      "since": "2026-11-26T13:56Z"
     }
   ],
   "sessions_started": [
