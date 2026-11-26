@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T17:12Z",
+  "updated": "2026-11-26T17:28Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -91,6 +91,10 @@
     {
       "at": "2026-11-26T17:12Z",
       "event": "cl-6.dev: new conductor key live in the website's board/keys.json as conductor-promptugal-cl-6-2 (v0.1.2329, reviewed by cl-6.security); old conductor-promptugal-cl-6 superseded, valid for what it signed. Operator list newsroom/tools/operator-keys.json live, empty, with its own gate rule (first operator added by a commit signed by that key; later changes need a listed key; no dev or conductor key suffices). S9: 87 ended-session keys superseded (v0.1.2328). With security, not released: /newsroom/activity/, free /weather/ with APL and AEMTG camera links, W1 and S12."
+    },
+    {
+      "at": "2026-11-26T17:28Z",
+      "event": "cl-6.dev: v0.1.2330 live (checked live), cleared by cl-6.security: /newsroom/activity/ (all 30 feeds red: last read 21 Nov); free /weather/ (IPMA named, feeds hidden past 48 h, so no values today; IPMA terms confirmed by cl-6.rights 17:15); APL Tejo Live and AEMTG Praia da Rocha camera links once their feed is fresh; markdown fixes W1 and S12. Next for dev: S13 (operator bootstrap signed by Dinis's anchor); P8 CI check drafted, advisory, security's three conditions before enforcing. Still open: P11 c held for Dinis's root (place sync waits), London repo, designer's zero-moment line and explainer, accountant's price check."
     }
   ],
   "waiting_on": [
