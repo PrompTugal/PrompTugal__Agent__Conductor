@@ -1,4 +1,4 @@
-# cl-6.conductor: Dinis's decisions in this session (UTC; each time is that of the commit that recorded Dinis's words, corrected 26 Nov 01:56Z after cl-6.security's S5)
+# cl-6.conductor: Dinis's decisions in this session (UTC; each time is that of the commit that recorded Dinis's words, corrected 26 Nov 2026-11-26T01:54Z after cl-6.security's S5)
 
 - 25 Nov by 23:38 (the commit that recorded it): yes to bringing the multi-conductor, multi-account rules into PrompTugal and moving outside teams' folders out of the website repository.
 - 26 Nov by 23:49: every PrompTugal agent gets its own repository in the PrompTugal organisation (not SovereignWebsite's); the place desks included.

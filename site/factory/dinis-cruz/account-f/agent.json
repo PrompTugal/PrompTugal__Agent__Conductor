@@ -14,7 +14,7 @@
  "model": "opus",
  "state": "thinking only: plans, routes, checks, starts sessions and wakes at Dinis's word",
  "focus": "waves 1 and 2 setting up; push access to each work repository waits on Dinis in each session; wakes as each setup finishes",
- "updated": "2026-11-26T01:56Z",
+ "updated": "2026-11-26T01:55Z",
  "timeline": [
   {
    "at": "2026-11-25T22:52Z",
@@ -53,8 +53,12 @@
    "event": "cl-6.dev's wake set (trig_01PrmumHe2QqRkn2P6fridbx)"
   },
   {
-   "at": "2026-11-26T01:56Z",
+   "at": "2026-11-26T01:54Z",
    "event": "times corrected from commit times (cl-6.security S5): earlier entries had been written from memory, not date -u"
+  },
+  {
+   "at": "2026-11-26T01:55Z",
+   "event": "S3 closed in this home and by swarm, weather, fringe and library; every time from now on taken from date -u at the moment of writing"
   }
  ],
  "waiting_on": [],
