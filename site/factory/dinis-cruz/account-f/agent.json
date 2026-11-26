@@ -14,7 +14,7 @@
  "model": "opus",
  "state": "thinking only: plans, routes, checks, starts sessions and wakes at Dinis's word",
  "focus": "waves 1 and 2 setting up; push access to each work repository waits on Dinis in each session; wakes as each setup finishes",
- "updated": "2026-11-26T01:55Z",
+ "updated": "2026-11-26T02:38Z",
  "timeline": [
   {
    "at": "2026-11-25T22:52Z",
@@ -59,9 +59,44 @@
   {
    "at": "2026-11-26T01:55Z",
    "event": "S3 closed in this home and by swarm, weather, fringe and library; every time from now on taken from date -u at the moment of writing"
+  },
+  {
+   "at": "2026-11-26T02:38Z",
+   "event": "first full pass asked of every agent; most areas done; escalations listed in waiting_on"
   }
  ],
- "waiting_on": [],
+ "waiting_on": [
+  {
+   "what": "Dinis types go in cl-6.data's session (session_016CrbJJKUtCUXi5dhrb3Ahs): its rules need his own word; six sections and the iOS app wait on data.promptugal.news (last read 21 Nov)",
+   "who": "Dinis",
+   "since": "2026-11-26T02:38Z"
+  },
+  {
+   "what": "a standing line from Dinis that work the conductor routes within an agent's role is his word, published verbatim in the website's board/guidance/README.md",
+   "who": "Dinis",
+   "since": "2026-11-26T02:38Z"
+  },
+  {
+   "what": "the key route, once: three permissions on the GitHub App's PrompTugal installation (Variables, Pull requests, Workflows write) and one IaC policy merge (policy/key-bootstrap.json)",
+   "who": "Dinis",
+   "since": "2026-11-26T02:38Z"
+  },
+  {
+   "what": "allow rules in sessions refused by their permission check: accountant and outreach (website attach), designer and customers (own key in board/keys.json), abp (website attach)",
+   "who": "Dinis",
+   "since": "2026-11-26T02:38Z"
+  },
+  {
+   "what": "programme: lift the agenda freeze and no-machine-reads limits of 11 Nov (Dinis's and Vicky's word), or keep them",
+   "who": "Dinis",
+   "since": "2026-11-26T02:38Z"
+  },
+  {
+   "what": "observability: account A's drain stopped? and the sealed drain credentials; backup: a durable destination; promptugal.news verified for the organisation's Pages",
+   "who": "Dinis",
+   "since": "2026-11-26T02:38Z"
+  }
+ ],
  "sessions_started": [
   {
    "session": "cl-6.abp@PrompTugal.dinis",
