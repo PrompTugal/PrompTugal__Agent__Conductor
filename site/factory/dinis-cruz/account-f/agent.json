@@ -197,6 +197,14 @@
     {
       "what": "P17 (with Dinis): London's data path and its place-signers.json pin (key trust; cl-6.security reviews first). Needed before London's data shows on the site.",
       "since": "2026-11-26T17:56Z"
+    },
+    {
+      "what": "cl-6.decisions@dinis is putting to Dinis directly (18:39): D6 (may metered promptugal.news articles quote IPMA warning values; default no, the 11 Nov article stays flagged), D3 and D5 (a person reads MeteoAlarm's and TfL's terms in a browser and quotes them), and the IPMA usage note to webmaster@ipma.pt (could also ask permission, settling D6). R18 is cl-6.data's work; R19 default stands.",
+      "since": "2026-11-26T18:39Z"
+    },
+    {
+      "what": "P9 beyond the cl-6.data trial (cl-6.abp, 18:39): each further role (cyber, signals, bulletins, events, library, live, videos, travel) needs cl-6.security's read of News__Data #1, then Dinis's word in cl-6.abp's session. Host lists: cl-6.abp proposes per role with security and rights; a new host is Dinis's.",
+      "since": "2026-11-26T18:39Z"
     }
   ],
   "sessions_started": [
