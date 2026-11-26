@@ -25,3 +25,5 @@
 - Dinis, 26 Nov 2026 about 13:50 UTC: "yes, go ahead with dev's deploy-speed proposal" (relayed to cl-6.dev and cl-6.devops at 2026-11-26T13:56Z).
 - Dinis, same message: promptugal.news gets pay-for-what-you-read as on newsroom.sgit.ai, starting at £5, counting down, still reading at zero (brief board/briefs/2026-11-26-pay-for-what-you-read.md; to dev and designer at 2026-11-26T13:56Z). Masthead chip comes back with that wording.
 - Dinis, same message: an admin page on the site showing every agent that is running. PT: /newsroom/agents/, built by cl-6.dev from the homes' agent.json and sessions.json.
+- Dinis, 26 Nov 2026 about 15:50 UTC: "yes we need that place (for London)". London becomes cl-6.places' 37th place (PrompTugal__Agent__Place__London by cl-6.infra; grant by cl-6.abp; site by cl-6.dev). Relayed 2026-11-26T15:49Z.
+- Dinis, about 14:30 UTC: a thread on the London Tube strikes with a visualisation; cl-6.correspondent sources, cl-6.journalist publishes, neutral until Dinis says what "our support" means.
