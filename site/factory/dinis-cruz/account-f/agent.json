@@ -165,6 +165,18 @@
     {
       "what": "ABP list for Dinis is now P1 to P10 (+ grant paths for history/** etc.).",
       "since": "2026-11-26T11:19Z"
+    },
+    {
+      "what": "Caps proposal ready: https://github.com/PrompTugal/PrompTugal__Agent__Accountant/blob/dev/site/factory/dinis-cruz/account-f/proposals/2026-11-26-daily-caps.md (conductor 50, security 30, infra 40, dev 15, other Opus 5, other Sonnet 8; warn 170, stop-and-ask 300 USD a day, API-equivalent).",
+      "since": "2026-11-26T11:20Z"
+    },
+    {
+      "what": "Security S8 (low) for the PrompTugal.vicky lane (conductor-vicky-3, another account; I cannot reach it): 10 website commits 07:38 to 10:16 UTC signed by ED25519 SHA256:32dP45eSMmVSt/G/CGvcxl/P+MO3Nwj9xeTh/GSA2wc, not in board/keys.json; publish that key or sign with a listed one.",
+      "since": "2026-11-26T11:20Z"
+    },
+    {
+      "what": "ABP list for Dinis is P1 to P11 (P9 = one key-PR proposal for all section repos; P11 = per-role path gaps), plus the website attach for accountant and the harness refusals of customers' and designer's own keys.json commits.",
+      "since": "2026-11-26T11:20Z"
     }
   ],
   "sessions_started": [
