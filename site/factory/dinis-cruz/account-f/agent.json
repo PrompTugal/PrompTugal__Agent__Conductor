@@ -14,7 +14,7 @@
  "model": "opus",
  "state": "thinking only: plans, routes, checks, starts sessions and wakes at Dinis's word",
  "focus": "waves 1 and 2 setting up; push access to each work repository waits on Dinis in each session; wakes as each setup finishes",
- "updated": "2026-11-26T06:12Z",
+ "updated": "2026-11-26T06:14Z",
  "timeline": [
   {
    "at": "2026-11-25T22:52Z",
@@ -87,6 +87,11 @@
    "what": "ABP proposal P4, to be said by Dinis in cl-6.abp's session (session_016CrbJK3xXBhUMA6rucuPPd): \"cl-6.conductor starts the PrompTugal sessions and wakes\". Until then R4 stands: the conductor proposes the remaining wakes to cl-6.maestro and creates none",
    "who": "Dinis",
    "since": "2026-11-26T06:12Z"
+  },
+  {
+   "what": "ABP proposal P5, in cl-6.abp's session: \"history/** for every agent's home\". Every agent already moved its history into history/ at Dinis's own rule (recorded as outside-the-grant writes until he says it)",
+   "who": "Dinis",
+   "since": "2026-11-26T06:14Z"
   },
   {
    "what": "a standing line from Dinis that work the conductor routes within an agent's role is his word, published verbatim in the website's board/guidance/README.md",
