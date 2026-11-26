@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T16:52Z",
+  "updated": "2026-11-26T16:54Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -95,12 +95,12 @@
       "since": "2026-11-26T16:33Z"
     },
     {
-      "what": "From cl-6.abp (policy v1.7.5, 55b6bd3; security's P8 pass carries to fda0cbe): it holds every widening until Dinis gives his root line (his anchor, or cl-6.decisions' signing key sha256:2c3824641f5b8470) and 'P8: yes'. cl-6.data.london's draft grant needs Dinis to set allow_package_managers false and allow_mcp_servers false on its environment; api.tfl.gov.uk is not in its six hosts, so adding it needs a new review.",
+      "what": "From cl-6.abp (policy v1.7.5, 55b6bd3; security's P8 pass carries to fda0cbe): it holds every widening until Dinis gives his root line (his anchor, or cl-6.decisions' signing key sha256:2c3824641f5b8470) and 'P8: yes' (P8 now suspended by security, 16:54 UTC: do not ask yet). cl-6.data.london's draft grant needs Dinis to set allow_package_managers false and allow_mcp_servers false on its environment; api.tfl.gov.uk is not in its six hosts, so adding it needs a new review.",
       "since": "2026-11-26T16:51Z"
     },
     {
-      "what": "cl-6.security (16:53 UTC): P8 PASS at ABP kit v2.1 dffb673, carried to fda0cbe (https://github.com/PrompTugal/PrompTugal__Agent__Security/blob/dev/docs/security/reviews/2026-11-26-p8-kit-v2.md). Needs Dinis's yes, his root line, and cl-6.decisions' revision 4. Operator key: when Dinis adds his key to the website's operator list, he states its fingerprint in his own words to the conductor or cl-6.maestro, for security's check (S13).",
-      "since": "2026-11-26T16:52Z"
+      "what": "cl-6.security CORRECTION (16:54 UTC): P8 is NOT passed. cl-6.security@dinis found two push-check bypasses in dffb673 (both confirmed); kit v2.2 fixes one, the other is open by one route (a fake remote reference file, then a push); cl-6.abp has the fix. The P8 record stays suspended until both security agents pass the same version: do NOT ask Dinis for 'P8: yes' yet. Still standing: when Dinis adds his key to the website's operator list, he states its fingerprint in his own words to the conductor or cl-6.maestro, for security's check (S13).",
+      "since": "2026-11-26T16:54Z"
     }
   ],
   "sessions_started": [
