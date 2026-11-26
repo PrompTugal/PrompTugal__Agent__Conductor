@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T17:38Z",
+  "updated": "2026-11-26T17:39Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -147,8 +147,8 @@
       "since": "2026-11-26T17:31Z"
     },
     {
-      "what": "Security's note (17:38): the P8 pin constant now names a session key, so the next cl-6.abp reset breaks every installed pin (another head, two more passes). A pin-signing key that outlives sessions, held by Dinis or endorsed by his anchor, would end that. Sent to cl-6.decisions@dinis for triage (17:39), with the root-line question.",
-      "since": "2026-11-26T17:38Z"
+      "what": "Security's note (17:38): the P8 pin constant now names a session key, so the next cl-6.abp reset breaks every installed pin (another head, two more passes). A pin-signing key that outlives sessions, held by Dinis or endorsed by his anchor, would end that. cl-6.decisions@dinis (17:38): Dinis's alone (trust in keys); it is putting it to him itself, with the pinlib line cl-6.abp needs.",
+      "since": "2026-11-26T17:39Z"
     }
   ],
   "sessions_started": [
