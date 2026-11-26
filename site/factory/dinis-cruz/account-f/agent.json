@@ -12,9 +12,9 @@
  "signing_fingerprint": "sha256:c0721eb39088f8e4",
  "encryption_fingerprint": "sha256:313f67e107567ad1",
  "model": "opus",
- "state": "thinking only: plans, routes, checks; no working repository",
- "focus": "the ABP agent first; then the sessions list for cl-6.maestro",
- "updated": "2026-11-26T02:45Z",
+ "state": "thinking only: plans, routes, checks, starts sessions and wakes at Dinis's word",
+ "focus": "waves 1 and 2 setting up; push access to each work repository waits on Dinis in each session; wakes as each setup finishes",
+ "updated": "2026-11-26T01:56Z",
  "timeline": [
   {
    "at": "2026-11-25T22:52Z",
@@ -25,24 +25,36 @@
    "event": "one status of the whole team (board/team-status-2026-11-25.md)"
   },
   {
-   "at": "2026-11-26T01:20Z",
+   "at": "2026-11-26T01:06Z",
    "event": "plan to wire up the agents (board/plans/2026-11-26-wire-up-the-agents.md)"
   },
   {
-   "at": "2026-11-26T01:55Z",
+   "at": "2026-11-26T01:19Z",
    "event": "six articles and a new front page published by cl-6.journalist (sub-agent); two gate fixes by cl-6.dev"
   },
   {
-   "at": "2026-11-26T02:05Z",
+   "at": "2026-11-26T01:26Z",
    "event": "this home seeded"
   },
   {
-   "at": "2026-11-26T02:25Z",
+   "at": "2026-11-26T01:29Z",
    "event": "Dinis: each agent its own session with its own repository; the conductor only thinks. Sub-agents stopped; sessions list for cl-6.maestro"
   },
   {
-   "at": "2026-11-26T02:45Z",
+   "at": "2026-11-26T01:31Z",
    "event": "cl-6.abp@PrompTugal.dinis started at Dinis's word (session_016CrbJK3xXBhUMA6rucuPPd, Sonnet, home PrompTugal__Agent__ABP), from https://sovereignwebsite.ai/abp/"
+  },
+  {
+   "at": "2026-11-26T01:43Z",
+   "event": "wave 1 started: journalist, dev, security (Opus), correspondent; wave 2 (14 section agents) started by cl-6.maestro at 01:41Z"
+  },
+  {
+   "at": "2026-11-26T01:51Z",
+   "event": "cl-6.dev's wake set (trig_01PrmumHe2QqRkn2P6fridbx)"
+  },
+  {
+   "at": "2026-11-26T01:56Z",
+   "event": "times corrected from commit times (cl-6.security S5): earlier entries had been written from memory, not date -u"
   }
  ],
  "waiting_on": [],
@@ -50,7 +62,7 @@
   {
    "session": "cl-6.abp@PrompTugal.dinis",
    "id": "session_016CrbJK3xXBhUMA6rucuPPd",
-   "at": "2026-11-26T02:45Z",
+   "at": "2026-11-26T01:31Z",
    "by": "Dinis's word in this session: yes, start cl-6.abp now"
   }
  ]

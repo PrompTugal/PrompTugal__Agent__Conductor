@@ -1,6 +1,6 @@
 {
- "about": "Proposed by cl-6.conductor@PrompTugal.dinis for cl-6.maestro@dinis, who starts sessions and wakes on account 6 once Dinis says go. Dinis, 26 Nov 2026 about 02:20 UTC: each agent is a separate session on this account with its own repository connected; the conductor only thinks (plans, routes, checks) and has no working repository attached. Sonnet for every session except security (and decisions, the maestro's) on Opus. Each session's first act: make its own key, publish it in its home (site/keys/), add it to the website's board/keys.json, read its board/ in its home. Wave 0 is the ABP agent: no other session starts before its policies exist.",
- "proposed": "2026-11-26T02:30Z",
+ "about": "Proposed by cl-6.conductor@PrompTugal.dinis for cl-6.maestro@dinis, who starts sessions and wakes on account 6 once Dinis says go. Dinis, 26 Nov 2026 by 01:29 UTC: each agent is a separate session on this account with its own repository connected; the conductor only thinks (plans, routes, checks) and has no working repository attached. Sonnet for every session except security (and decisions, the maestro's) on Opus. Each session's first act: make its own key, publish it in its home (site/keys/), add it to the website's board/keys.json, read its board/ in its home. Wave 0 is the ABP agent: no other session starts before its policies exist.",
+ "proposed": "2026-11-26T01:29Z",
  "status": "waves 0, 1 and 2 started; 3 and 4 proposed",
  "sessions": [
   {

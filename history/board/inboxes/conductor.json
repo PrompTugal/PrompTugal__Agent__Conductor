@@ -4,7 +4,7 @@
  "updated": "2026-11-06T16:53Z",
  "endpoint": "https://dev.send.sgraph.ai",
  "vault_id": "axmydi66",
- "append_token": "46d1cb4cf52df4ff4cf48a27f80ae31a0563b15f463a645d197ad77bf30048b4",
+ "append_token": "redacted in this copy; the value is in PrompTugal/PrompTugal__News__Website at the commit in history/PROVENANCE.md",
  "to": "sha256:0d045a0b55734ac7",
  "recipient": {
   "fingerprint": "sha256:0d045a0b55734ac7",

@@ -1,7 +1,7 @@
 {
  "about": "A proposal by cl-6.conductor@PrompTugal.dinis, not in force: the sessions and wakes for PrompTugal.news on account F, so the site (which feeds the approved iOS app) is kept up to date. Nothing starts until Dinis says go in the conductor's session; cl-6.maestro@dinis then starts the sessions and creates the wakes. Fewer sessions, more sub-agents; Sonnet for workers. Times are UTC (Lisbon is UTC in November), staggered in pipeline order. Cost: not estimated here; for scale, conductor.b's ledger recorded $3,836.55 for the whole estate up to 21 Nov (board/team/conductor.b/ledger/); accountant work is a sub-agent of the conductor and sets per-wake budgets in board/budgets.json before the first wake.",
  "status": "proposed",
- "proposed": "2026-11-25T23:45Z",
+ "proposed": "2026-11-25T23:35Z",
  "sessions": [
   {
    "agent": "cl-6.journalist@PrompTugal.dinis",
@@ -30,6 +30,6 @@
  ],
  "stay_off": "every other role (outreach, investors, customers, the place desks, observability and the rest) until the four above run cleanly for two days; they run as sub-agents of the conductor when needed.",
  "new_repositories": "none needed now: everything for PrompTugal.news stays in this repository; the iOS brief goes to PrompTugal/PrompTugal__App__iOS (where: proposed docs/briefs/, to be agreed with that repository's owner).",
- "models": "Dinis, 26 Nov 2026 about 00:25 UTC: every agent started here runs on Sonnet unless strategically needed; Opus for security and decisions. Agents with the same name are twins (one home repository).",
- "updated": "2026-11-26T00:30Z"
+ "models": "Dinis, 26 Nov 2026 by 00:22 UTC: every agent started here runs on Sonnet unless strategically needed; Opus for security and decisions. Agents with the same name are twins (one home repository).",
+ "updated": "2026-11-26T00:22Z"
 }
