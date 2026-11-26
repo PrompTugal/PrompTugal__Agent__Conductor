@@ -1,154 +1,162 @@
 {
- "name": "cl-6.conductor@PrompTugal.dinis",
- "owner": "dinis-cruz",
- "account": "account-f",
- "account_id": "cl-6",
- "role": "The conductor of PrompTugal.news: the plan, the board, who does what; runs the agents as sub-agents; seeds their homes",
- "session": "https://claude.ai/code/session_016CrbJKttr9TiHHDsuGnmF1",
- "started_by": "cl-6.maestro@dinis, at Dinis's word, 2026-11-25T22:48Z",
- "home": "PrompTugal/PrompTugal__Agent__Conductor",
- "work": "PrompTugal/PrompTugal__News__Website",
- "key": "site/keys/cl-6.conductor.json",
- "signing_fingerprint": "sha256:c0721eb39088f8e4",
- "encryption_fingerprint": "sha256:313f67e107567ad1",
- "model": "opus",
- "state": "thinking only: plans, routes, checks, starts sessions and wakes at Dinis's word",
- "focus": "waves 1 and 2 setting up; push access to each work repository waits on Dinis in each session; wakes as each setup finishes",
- "updated": "2026-11-26T06:26Z",
- "timeline": [
-  {
-   "at": "2026-11-25T22:52Z",
-   "event": "key made; public half in the website's board/keys.json"
-  },
-  {
-   "at": "2026-11-25T23:20Z",
-   "event": "one status of the whole team (board/team-status-2026-11-25.md)"
-  },
-  {
-   "at": "2026-11-26T01:06Z",
-   "event": "plan to wire up the agents (board/plans/2026-11-26-wire-up-the-agents.md)"
-  },
-  {
-   "at": "2026-11-26T01:19Z",
-   "event": "six articles and a new front page published by cl-6.journalist (sub-agent); two gate fixes by cl-6.dev"
-  },
-  {
-   "at": "2026-11-26T01:26Z",
-   "event": "this home seeded"
-  },
-  {
-   "at": "2026-11-26T01:29Z",
-   "event": "Dinis: each agent its own session with its own repository; the conductor only thinks. Sub-agents stopped; sessions list for cl-6.maestro"
-  },
-  {
-   "at": "2026-11-26T01:31Z",
-   "event": "cl-6.abp@PrompTugal.dinis started at Dinis's word (session_016CrbJK3xXBhUMA6rucuPPd, Sonnet, home PrompTugal__Agent__ABP), from https://sovereignwebsite.ai/abp/"
-  },
-  {
-   "at": "2026-11-26T01:43Z",
-   "event": "wave 1 started: journalist, dev, security (Opus), correspondent; wave 2 (14 section agents) started by cl-6.maestro at 01:41Z"
-  },
-  {
-   "at": "2026-11-26T01:51Z",
-   "event": "cl-6.dev's wake set (trig_01PrmumHe2QqRkn2P6fridbx)"
-  },
-  {
-   "at": "2026-11-26T01:54Z",
-   "event": "times corrected from commit times (cl-6.security S5): earlier entries had been written from memory, not date -u"
-  },
-  {
-   "at": "2026-11-26T01:55Z",
-   "event": "S3 closed in this home and by swarm, weather, fringe and library; every time from now on taken from date -u at the moment of writing"
-  },
-  {
-   "at": "2026-11-26T02:38Z",
-   "event": "first full pass asked of every agent; most areas done; escalations listed in waiting_on"
-  },
-  {
-   "at": "2026-11-26T02:42Z",
-   "event": "ABP v1.2.0 out (identity R14). The wake prompts cannot be edited from the conductor's session (only from the session each posts into): the identity line goes out in cl-6.maestro's 06:05 nudge, each agent updates its own wake. iOS brief published (board/briefs/2026-11-26-ios-app.md)."
-  },
-  {
-   "at": "2026-11-26T06:07Z",
-   "event": "after the 06:00 limit reset: journalist nudged and its wake set (26 wakes); startups released (00b51ab); iOS brief corrected (live paths, startups' feed)"
-  },
-  {
-   "at": "2026-11-26T06:12Z",
-   "event": "cl-6.abp keeps R4 (only cl-6.maestro starts sessions and wakes) until Dinis says P4 in its session; the conductor creates no more wakes and proposes them to cl-6.maestro. 28 wakes were set before."
-  },
-  {
-   "at": "2026-11-26T06:26Z",
-   "event": "Dinis's home page feedback live in v0.1.2296 (cl-6.dev, reviewed by cl-6.security and the designer): dates on every card, map pins by recency, Algarve grid capped with 'All 17 towns', header wraps; the lead is front-page.json's"
-  }
- ],
- "waiting_on": [
-  {
-   "what": "Dinis types go in cl-6.data's session (session_016CrbJJKUtCUXi5dhrb3Ahs): its rules need his own word; six sections and the iOS app wait on data.promptugal.news (last read 21 Nov)",
-   "who": "Dinis",
-   "since": "2026-11-26T02:38Z"
-  },
-  {
-   "what": "ONE LINE in cl-6.abp's session (session_016CrbJK3xXBhUMA6rucuPPd): \"yes to P4, P5, P6 and P7\" (P4: cl-6.conductor starts the PrompTugal sessions and wakes; P5: history/** in every agent's home; P6: a section agent pushes a key-* branch and opens one PR in its own repository for a key or gate change cl-6.security approves). Goes with the merge of IaC #25 (the one exception). P7: the twins write Vicky's desks (desks/analyst-vicky/**, reviewer-vicky/**, checker-vicky/**, others after a check) and reviewer the covers path design/infographics/out/**; it matches Dinis's 26 Nov word to do everything here and then clean up Vicky's environment. A5 waits on it.",
-   "who": "Dinis",
-   "since": "2026-11-26T06:23Z"
-  },
-  {
-   "what": "part of the one exception (cl-6.security, 2026-11-26T06:24Z): in each section agent's session (library, live, videos, cyber, bulletins, signals, travel; events managed without), allow editing that repository's own .github/workflows/pages.yml for the anchor override only; the App and security's pins hold it to the reviewed bytes; also cl-6.dev's session (session_016CrbJKEPqF3pNfbncgHqvy): allow editing the website's .github/workflows/deploy-pages.yml for security's option 1 (validate and release in parallel, about 6 min a deploy instead of 11; security said yes) (2026-11-26T06:26Z)",
-   "who": "Dinis",
-   "since": "2026-11-26T06:24Z"
-  },
-  {
-   "what": "a standing line from Dinis that work the conductor routes within an agent's role is his word, published verbatim in the website's board/guidance/README.md",
-   "who": "Dinis",
-   "since": "2026-11-26T02:38Z"
-  },
-  {
-   "what": "THE ONE EXCEPTION, ready (2026-11-26T06:22Z, passed by cl-6.security at its final head ddc867b (replacing the earlier pass at f3a2b47)): (1) merge PrompTugal__IaC #25; (2) add to the GitHub App's PrompTugal installation: Commit statuses write, Variables write, Pull requests write, Workflows write, Actions read; (3) turn on #25's two schedules (or tell cl-6.infra to). After that no person is in the loop for section keys or gate changes. Review: https://github.com/PrompTugal/PrompTugal__Agent__Security/blob/dev/docs/security/reviews/2026-11-26-iac-pr25.md",
-   "who": "Dinis",
-   "since": "2026-11-26T02:38Z"
-  },
-  {
-   "what": "allow rules in sessions refused by their permission check: accountant and outreach (website attach), designer and customers (own key in board/keys.json), abp (website attach)",
-   "who": "Dinis",
-   "since": "2026-11-26T02:38Z"
-  },
-  {
-   "what": "programme: lift the agenda freeze and no-machine-reads limits of 11 Nov (Dinis's and Vicky's word), or keep them",
-   "who": "Dinis",
-   "since": "2026-11-26T02:38Z"
-  },
-  {
-   "what": "observability: account A's drain stopped? and the sealed drain credentials; backup: a durable destination; promptugal.news verified for the organisation's Pages",
-   "who": "Dinis",
-   "since": "2026-11-26T02:38Z"
-  },
-  {
-   "what": "cl-6.abp's proposals P1 (telemetry reads transcripts, as telemetry.b had) and P2 (sub-agents for every role); its website attach for board/abp/",
-   "who": "Dinis",
-   "since": "2026-11-26T02:42Z"
-  },
-  {
-   "what": "rights R19: cm-tavira and teatro-das-figuras unclear; the old 'wires' accountant task trig_016WqCGyyrFtnuWkrTLWmgaP still firing into an old SGit newsroom session (delete or keep)",
-   "who": "Dinis",
-   "since": "2026-11-26T02:42Z"
-  },
-  {
-   "what": "cl-6.researcher: a yes to collect outlets' public role mailboxes (redacao, press) from their own contact pages, first 20 to cl-6.security (under CLAUDE.md 'Contacts'); it waits for Dinis's own word",
-   "who": "Dinis",
-   "since": "2026-11-26T06:20Z"
-  },
-  {
-   "what": "money: /contribute/ rule 7 says 'No payment, for now' (sherpa S1); the current money line, or keep it",
-   "who": "Dinis",
-   "since": "2026-11-26T06:20Z"
-  }
- ],
- "sessions_started": [
-  {
-   "session": "cl-6.abp@PrompTugal.dinis",
-   "id": "session_016CrbJK3xXBhUMA6rucuPPd",
-   "at": "2026-11-26T01:31Z",
-   "by": "Dinis's word in this session: yes, start cl-6.abp now"
-  }
- ]
+  "name": "cl-6.conductor@PrompTugal.dinis",
+  "owner": "dinis-cruz",
+  "account": "account-f",
+  "account_id": "cl-6",
+  "role": "The conductor of PrompTugal.news: the plan, the board, who does what; runs the agents as sub-agents; seeds their homes",
+  "session": "https://claude.ai/code/session_016CrbJKttr9TiHHDsuGnmF1",
+  "started_by": "cl-6.maestro@dinis, at Dinis's word, 2026-11-25T22:48Z",
+  "home": "PrompTugal/PrompTugal__Agent__Conductor",
+  "work": "PrompTugal/PrompTugal__News__Website",
+  "key": "site/keys/cl-6.conductor.json",
+  "signing_fingerprint": "sha256:c0721eb39088f8e4",
+  "encryption_fingerprint": "sha256:313f67e107567ad1",
+  "model": "opus",
+  "state": "thinking only: plans, routes, checks, starts sessions and wakes at Dinis's word",
+  "focus": "waves 1 and 2 setting up; push access to each work repository waits on Dinis in each session; wakes as each setup finishes",
+  "updated": "2026-11-26T06:26Z",
+  "timeline": [
+    {
+      "at": "2026-11-25T22:52Z",
+      "event": "key made; public half in the website's board/keys.json"
+    },
+    {
+      "at": "2026-11-25T23:20Z",
+      "event": "one status of the whole team (board/team-status-2026-11-25.md)"
+    },
+    {
+      "at": "2026-11-26T01:06Z",
+      "event": "plan to wire up the agents (board/plans/2026-11-26-wire-up-the-agents.md)"
+    },
+    {
+      "at": "2026-11-26T01:19Z",
+      "event": "six articles and a new front page published by cl-6.journalist (sub-agent); two gate fixes by cl-6.dev"
+    },
+    {
+      "at": "2026-11-26T01:26Z",
+      "event": "this home seeded"
+    },
+    {
+      "at": "2026-11-26T01:29Z",
+      "event": "Dinis: each agent its own session with its own repository; the conductor only thinks. Sub-agents stopped; sessions list for cl-6.maestro"
+    },
+    {
+      "at": "2026-11-26T01:31Z",
+      "event": "cl-6.abp@PrompTugal.dinis started at Dinis's word (session_016CrbJK3xXBhUMA6rucuPPd, Sonnet, home PrompTugal__Agent__ABP), from https://sovereignwebsite.ai/abp/"
+    },
+    {
+      "at": "2026-11-26T01:43Z",
+      "event": "wave 1 started: journalist, dev, security (Opus), correspondent; wave 2 (14 section agents) started by cl-6.maestro at 01:41Z"
+    },
+    {
+      "at": "2026-11-26T01:51Z",
+      "event": "cl-6.dev's wake set (trig_01PrmumHe2QqRkn2P6fridbx)"
+    },
+    {
+      "at": "2026-11-26T01:54Z",
+      "event": "times corrected from commit times (cl-6.security S5): earlier entries had been written from memory, not date -u"
+    },
+    {
+      "at": "2026-11-26T01:55Z",
+      "event": "S3 closed in this home and by swarm, weather, fringe and library; every time from now on taken from date -u at the moment of writing"
+    },
+    {
+      "at": "2026-11-26T02:38Z",
+      "event": "first full pass asked of every agent; most areas done; escalations listed in waiting_on"
+    },
+    {
+      "at": "2026-11-26T02:42Z",
+      "event": "ABP v1.2.0 out (identity R14). The wake prompts cannot be edited from the conductor's session (only from the session each posts into): the identity line goes out in cl-6.maestro's 06:05 nudge, each agent updates its own wake. iOS brief published (board/briefs/2026-11-26-ios-app.md)."
+    },
+    {
+      "at": "2026-11-26T06:07Z",
+      "event": "after the 06:00 limit reset: journalist nudged and its wake set (26 wakes); startups released (00b51ab); iOS brief corrected (live paths, startups' feed)"
+    },
+    {
+      "at": "2026-11-26T06:12Z",
+      "event": "cl-6.abp keeps R4 (only cl-6.maestro starts sessions and wakes) until Dinis says P4 in its session; the conductor creates no more wakes and proposes them to cl-6.maestro. 28 wakes were set before."
+    },
+    {
+      "at": "2026-11-26T06:26Z",
+      "event": "Dinis's home page feedback live in v0.1.2296 (cl-6.dev, reviewed by cl-6.security and the designer): dates on every card, map pins by recency, Algarve grid capped with 'All 17 towns', header wraps; the lead is front-page.json's"
+    }
+  ],
+  "waiting_on": [
+    {
+      "what": "Dinis types go in cl-6.data's session (session_016CrbJJKUtCUXi5dhrb3Ahs): its rules need his own word; six sections and the iOS app wait on data.promptugal.news (last read 21 Nov)",
+      "who": "Dinis",
+      "since": "2026-11-26T02:38Z"
+    },
+    {
+      "what": "ONE LINE in cl-6.abp's session (session_016CrbJK3xXBhUMA6rucuPPd): \"yes to P4, P5, P6 and P7\" (P4: cl-6.conductor starts the PrompTugal sessions and wakes; P5: history/** in every agent's home; P6: a section agent pushes a key-* branch and opens one PR in its own repository for a key or gate change cl-6.security approves). Goes with the merge of IaC #25 (the one exception). P7: the twins write Vicky's desks (desks/analyst-vicky/**, reviewer-vicky/**, checker-vicky/**, others after a check) and reviewer the covers path design/infographics/out/**; it matches Dinis's 26 Nov word to do everything here and then clean up Vicky's environment. A5 waits on it.",
+      "who": "Dinis",
+      "since": "2026-11-26T06:23Z"
+    },
+    {
+      "what": "part of the one exception (cl-6.security, 2026-11-26T06:24Z): in each section agent's session (library, live, videos, cyber, bulletins, signals, travel; events managed without), allow editing that repository's own .github/workflows/pages.yml for the anchor override only; the App and security's pins hold it to the reviewed bytes; also cl-6.dev's session (session_016CrbJKEPqF3pNfbncgHqvy): allow editing the website's .github/workflows/deploy-pages.yml for security's option 1 (validate and release in parallel, about 6 min a deploy instead of 11; security said yes) (2026-11-26T06:26Z)",
+      "who": "Dinis",
+      "since": "2026-11-26T06:24Z"
+    },
+    {
+      "what": "a standing line from Dinis that work the conductor routes within an agent's role is his word, published verbatim in the website's board/guidance/README.md",
+      "who": "Dinis",
+      "since": "2026-11-26T02:38Z"
+    },
+    {
+      "what": "THE ONE EXCEPTION, ready (2026-11-26T06:22Z, passed by cl-6.security at its final head ddc867b (replacing the earlier pass at f3a2b47)): (1) merge PrompTugal__IaC #25; (2) add to the GitHub App's PrompTugal installation: Commit statuses write, Variables write, Pull requests write, Workflows write, Actions read; (3) turn on #25's two schedules (or tell cl-6.infra to). After that no person is in the loop for section keys or gate changes. Review: https://github.com/PrompTugal/PrompTugal__Agent__Security/blob/dev/docs/security/reviews/2026-11-26-iac-pr25.md",
+      "who": "Dinis",
+      "since": "2026-11-26T02:38Z"
+    },
+    {
+      "what": "allow rules in sessions refused by their permission check: accountant and outreach (website attach), designer and customers (own key in board/keys.json), abp (website attach)",
+      "who": "Dinis",
+      "since": "2026-11-26T02:38Z"
+    },
+    {
+      "what": "programme: lift the agenda freeze and no-machine-reads limits of 11 Nov (Dinis's and Vicky's word), or keep them",
+      "who": "Dinis",
+      "since": "2026-11-26T02:38Z"
+    },
+    {
+      "what": "observability: account A's drain stopped? and the sealed drain credentials; backup: a durable destination; promptugal.news verified for the organisation's Pages",
+      "who": "Dinis",
+      "since": "2026-11-26T02:38Z"
+    },
+    {
+      "what": "cl-6.abp's proposals P1 (telemetry reads transcripts, as telemetry.b had) and P2 (sub-agents for every role); its website attach for board/abp/",
+      "who": "Dinis",
+      "since": "2026-11-26T02:42Z"
+    },
+    {
+      "what": "rights R19: cm-tavira and teatro-das-figuras unclear; the old 'wires' accountant task trig_016WqCGyyrFtnuWkrTLWmgaP still firing into an old SGit newsroom session (delete or keep)",
+      "who": "Dinis",
+      "since": "2026-11-26T02:42Z"
+    },
+    {
+      "what": "cl-6.researcher: a yes to collect outlets' public role mailboxes (redacao, press) from their own contact pages, first 20 to cl-6.security (under CLAUDE.md 'Contacts'); it waits for Dinis's own word",
+      "who": "Dinis",
+      "since": "2026-11-26T06:20Z"
+    },
+    {
+      "what": "money: /contribute/ rule 7 says 'No payment, for now' (sherpa S1); the current money line, or keep it",
+      "who": "Dinis",
+      "since": "2026-11-26T06:20Z"
+    },
+    {
+      "what": "cl-6.abp P8: install the hook kit in every cl-6 repository (no cl-6 session but abp's has the hook: no log, no R3/R4 breaker, no machine run report). Line for Dinis, in cl-6.abp's session, with P4 to P7: \"yes to P8\". Interim: every agent files R10 by hand (abp/templates/run-report-by-hand.md), sent to 38 sessions.",
+      "since": "2026-11-26T07:20Z"
+    },
+    {
+      "what": "cl-6.data blocked on IaC #25 (security: News__Data added to its policy by infra); data.promptugal.news on 21 Nov data until #25 is merged and data's key PR pinned.",
+      "since": "2026-11-26T07:20Z"
+    }
+  ],
+  "sessions_started": [
+    {
+      "session": "cl-6.abp@PrompTugal.dinis",
+      "id": "session_016CrbJK3xXBhUMA6rucuPPd",
+      "at": "2026-11-26T01:31Z",
+      "by": "Dinis's word in this session: yes, start cl-6.abp now"
+    }
+  ]
 }
