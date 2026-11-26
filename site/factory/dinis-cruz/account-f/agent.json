@@ -14,7 +14,7 @@
  "model": "opus",
  "state": "thinking only: plans, routes, checks, starts sessions and wakes at Dinis's word",
  "focus": "waves 1 and 2 setting up; push access to each work repository waits on Dinis in each session; wakes as each setup finishes",
- "updated": "2026-11-26T02:42Z",
+ "updated": "2026-11-26T06:07Z",
  "timeline": [
   {
    "at": "2026-11-25T22:52Z",
@@ -67,6 +67,10 @@
   {
    "at": "2026-11-26T02:42Z",
    "event": "ABP v1.2.0 out (identity R14). The wake prompts cannot be edited from the conductor's session (only from the session each posts into): the identity line goes out in cl-6.maestro's 06:05 nudge, each agent updates its own wake. iOS brief published (board/briefs/2026-11-26-ios-app.md)."
+  },
+  {
+   "at": "2026-11-26T06:07Z",
+   "event": "after the 06:00 limit reset: journalist nudged and its wake set (26 wakes); startups released (00b51ab); iOS brief corrected (live paths, startups' feed)"
   }
  ],
  "waiting_on": [

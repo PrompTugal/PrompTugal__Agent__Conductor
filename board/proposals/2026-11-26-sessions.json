@@ -26,7 +26,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 1,
-   "wake": "not yet: created when the agent reports its setup done",
+   "wake": "trig_01HHZRxLqWpzNpKi7oURHNfF: 07:57 and 18:57 Lisbon (set 2026-11-26T06:07Z)",
    "does": "research, curation, writing, checking, signing, publishing; the twins of Vicky's curator, checker, reviewer, programme and analyst brief it until they have sessions",
    "id": "session_016CrbJLhtarwbcbxJnrF3bP",
    "url": "https://claude.ai/code/session_016CrbJLhtarwbcbxJnrF3bP",
@@ -70,7 +70,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 1,
-   "wake": "not yet: created when the agent reports its setup done",
+   "wake": "trig_01TrmFyMERkMgWUZUycoaaRw: 08:57 and 19:57 Lisbon",
    "does": "the front page and the beats",
    "id": "session_016CrbJKBK3KAiWXzESjt3zH",
    "url": "https://claude.ai/code/session_016CrbJKBK3KAiWXzESjt3zH",
@@ -562,7 +562,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "trig_01EV8f5CcTmfE42EAZsYDmM4: 07:43 and 18:43 Lisbon",
    "does": "twin of programme@PrompTugal.vicky",
    "id": "session_016CrbJLwnkTq2kxfioHp6py",
    "url": "https://claude.ai/code/session_016CrbJLwnkTq2kxfioHp6py",
