@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T17:35Z",
+  "updated": "2026-11-26T17:36Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -111,6 +111,10 @@
     {
       "at": "2026-11-26T17:35Z",
       "event": "London's registry entry: cl-6.places' places.json is its own state for its 36 places; the site's registry is data/by-place/places.json (cl-6.dev). London's group and path come from cl-6.place.london's proposal, settled by the conductor; dev writes the entry. cl-6.places does not list London."
+    },
+    {
+      "at": "2026-11-26T17:36Z",
+      "event": "London path settled by the conductor on cl-6.place.london's proposal: /london/ top level, API data/by-place/london.json, parent united-kingdom, strikes at /london/strikes/. Draft london.json at place.london's account-f path (ba76660), unsigned; dev to tell place.london the signature scheme and whether the sync reads that path. place.london key SSH SHA256:lLkrpgTDgKpJr72dE2tK2bVSTSKlhV07mH/EAyQtw2c, confirming to security."
     }
   ],
   "waiting_on": [
