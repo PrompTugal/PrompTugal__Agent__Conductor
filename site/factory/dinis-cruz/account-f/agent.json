@@ -183,8 +183,12 @@
       "since": "2026-11-26T11:23Z"
     },
     {
-      "what": "Price wording: the masthead said 'Pay for what you read · £4.99' while /account/ says 'Nothing is charged'; masthead line removed meanwhile. What does the site promise readers about price? (with the /contribute/ money line)",
-      "since": "2026-11-26T11:39Z"
+      "what": "The Stripe Payment Link for PrompTugal.news (£5, one payment) and the account it pays into; top-up says 'coming soon' until then.",
+      "since": "2026-11-26T13:56Z"
+    },
+    {
+      "what": "Studio and Instagram: recommend widening cl-6.videos to explainer videos and short clips (studio), and one new cl-6.social (Instagram drafts; a person posts; connecting an account is a connector, Dinis's). Needs Dinis's yes; then infra makes PrompTugal__Agent__Social and the maestro starts it.",
+      "since": "2026-11-26T13:56Z"
     }
   ],
   "sessions_started": [

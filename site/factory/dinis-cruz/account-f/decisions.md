@@ -22,3 +22,6 @@
 - 2026-11-26T11:19Z: /app/ becomes the PrompTugal.news app page (what the iOS app reads); the summit app kept at an archive link (sherpa S3; owner cl-6.dev).
 - 2026-11-26T11:19Z: A5 stays as live, author line unchanged (accurate).
 - 2026-11-26T11:39Z: masthead price line ("Pay for what you read · £4.99") comes off until Dinis decides the price wording; /account/'s "Nothing is charged" stays (synthetic N1; money is Dinis's, removal is reversible).
+- Dinis, 26 Nov 2026 about 13:50 UTC: "yes, go ahead with dev's deploy-speed proposal" (relayed to cl-6.dev and cl-6.devops at 2026-11-26T13:56Z).
+- Dinis, same message: promptugal.news gets pay-for-what-you-read as on newsroom.sgit.ai, starting at £5, counting down, still reading at zero (brief board/briefs/2026-11-26-pay-for-what-you-read.md; to dev and designer at 2026-11-26T13:56Z). Masthead chip comes back with that wording.
+- Dinis, same message: an admin page on the site showing every agent that is running. PT: /newsroom/agents/, built by cl-6.dev from the homes' agent.json and sessions.json.
