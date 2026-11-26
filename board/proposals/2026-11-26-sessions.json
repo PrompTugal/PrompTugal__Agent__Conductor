@@ -98,7 +98,7 @@
     "PrompTugal/PrompTugal__News__Weather"
    ],
    "wave": 2,
-   "wake": "not yet: created when the agent reports its setup done",
+   "wake": "trig_01Kd394FywmXcuXD5yMTgzMi: 07:17 and 18:17 Lisbon (set 2026-11-26T02:30Z)",
    "does": "the weather section",
    "id": "session_016CrbJMaWr7p8W8MaDmhsYG",
    "url": "https://claude.ai/code/session_016CrbJMaWr7p8W8MaDmhsYG",
@@ -324,7 +324,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "trig_018Tso1U5CSJqC7hf4hFTXp8: 08:33 and 19:33 Lisbon (set 2026-11-26T02:30Z)",
    "does": "its role in the website's CLAUDE.md team table",
    "id": "session_016CrbJKcMRN3j2H1qSP6eGy",
    "url": "https://claude.ai/code/session_016CrbJKcMRN3j2H1qSP6eGy",
@@ -338,7 +338,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "held: Dinis to say whether account A's observability drain (trig_012hQ65rBgDWvQ7qqbeHJrfp) is stopped, and to hand over the sealed drain credentials (set 2026-11-26T02:30Z)",
    "does": "its role in the website's CLAUDE.md team table",
    "id": "session_016CrbJK6qQvXVy64vKPgEe1",
    "url": "https://claude.ai/code/session_016CrbJK6qQvXVy64vKPgEe1",
@@ -380,7 +380,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "trig_018uDJ4TG4V9VEmedHDSHTQm: 09:13 and 20:13 Lisbon (set 2026-11-26T02:30Z)",
    "does": "its role in the website's CLAUDE.md team table",
    "id": "session_016CrbJMS4781bAVGCP7qfap",
    "url": "https://claude.ai/code/session_016CrbJMS4781bAVGCP7qfap",
@@ -394,7 +394,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "trig_01JDRVAhQjG7FvLbaetH38UH: 08:53 and 19:53 Lisbon (set 2026-11-26T02:30Z)",
    "does": "its role in the website's CLAUDE.md team table",
    "id": "session_016CrbJJ4rKxNqiEKKhAaWAT",
    "url": "https://claude.ai/code/session_016CrbJJ4rKxNqiEKKhAaWAT",
@@ -408,7 +408,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "trig_01U7fFURKna58sdsLpLWfFz1: 09:03 and 20:03 Lisbon (set 2026-11-26T02:30Z)",
    "does": "its role in the website's CLAUDE.md team table",
    "id": "session_016CrbJHy25niw9qrWwrVc9S",
    "url": "https://claude.ai/code/session_016CrbJHy25niw9qrWwrVc9S",
@@ -422,7 +422,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "trig_01DU5xzAo9hTm28eYEyt7Jj2: 10:13 and 21:13 Lisbon (set 2026-11-26T02:30Z)",
    "does": "its role in the website's CLAUDE.md team table",
    "id": "session_016CrbJKQ8xgNBKsWaaetm7x",
    "url": "https://claude.ai/code/session_016CrbJKQ8xgNBKsWaaetm7x",
@@ -436,7 +436,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "trig_01Fe63aCQnUdHrbXLFXPUzPR: 09:23 and 20:23 Lisbon (set 2026-11-26T02:30Z)",
    "does": "its role in the website's CLAUDE.md team table",
    "id": "session_016CrbJLLxVYAM8QwqHBV7aM",
    "url": "https://claude.ai/code/session_016CrbJLLxVYAM8QwqHBV7aM",
@@ -478,7 +478,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "trig_01REe7ScaXxthRPsjNtBQJdQ: 10:03 and 21:03 Lisbon (set 2026-11-26T02:30Z)",
    "does": "its role in the website's CLAUDE.md team table",
    "id": "session_016CrbJLUcdAqJPbap3cW4nW",
    "url": "https://claude.ai/code/session_016CrbJLUcdAqJPbap3cW4nW",
@@ -534,7 +534,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "trig_0119oATabct3wgv5SmUxp7Xq: 07:47 and 18:47 Lisbon (set 2026-11-26T02:30Z)",
    "does": "twin of curator@PrompTugal.vicky",
    "id": "session_016CrbJLsMrLvFQSaXufU7Xs",
    "url": "https://claude.ai/code/session_016CrbJLsMrLvFQSaXufU7Xs",
@@ -548,7 +548,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "trig_01F6J4Juac5JBZXex3AXh7w3: 08:13 and 19:13 Lisbon (set 2026-11-26T02:30Z)",
    "does": "twin of checker@PrompTugal.vicky",
    "id": "session_016CrbJKoRCCouKXS7AP8XFe",
    "url": "https://claude.ai/code/session_016CrbJKoRCCouKXS7AP8XFe",
@@ -576,7 +576,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "trig_01QizYvq9Nbm5cBVLpnwJfV4: 07:53 and 18:53 Lisbon (set 2026-11-26T02:30Z)",
    "does": "twin of analyst@PrompTugal.vicky",
    "id": "session_016CrbJKUGGAH6r8MhbuAxyV",
    "url": "https://claude.ai/code/session_016CrbJKUGGAH6r8MhbuAxyV",
