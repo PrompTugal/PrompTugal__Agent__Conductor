@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T17:34Z",
+  "updated": "2026-11-26T17:35Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -107,6 +107,10 @@
     {
       "at": "2026-11-26T17:34Z",
       "event": "London on the website (cl-6.dev): waits on data/by-place/london.json in cl-6.place.london's home, its fingerprint pinned in place-signers.json via cl-6.security, dev's one-pin-per-place sync change (to security), P11 c (Dinis), and the path (/london/ or /europe/london/) and places.json entry: asked of cl-6.place.london and cl-6.places; the conductor settles it and tells dev."
+    },
+    {
+      "at": "2026-11-26T17:35Z",
+      "event": "London's registry entry: cl-6.places' places.json is its own state for its 36 places; the site's registry is data/by-place/places.json (cl-6.dev). London's group and path come from cl-6.place.london's proposal, settled by the conductor; dev writes the entry. cl-6.places does not list London."
     }
   ],
   "waiting_on": [
