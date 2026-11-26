@@ -5,3 +5,6 @@
 - 26 Nov ~00:25: agents with the same name are twins; Sonnet for every agent unless strategically needed; Opus for security and decisions.
 - 26 Nov ~00:30: specialities of a role are one agent (Vicky's several journalists are one journalist).
 - 26 Nov ~01:25: start all the agents here and give them a new home; a full pass on the data refresh and the news; run the full publishing workflow here for a while (research, curation, writing, publishing); do everything here, then clean up Vicky's environment.
+- 26 Nov ~02:25: each agent a separate session on this account with its own repository connected; the conductor only thinks, no working repository attached.
+- 26 Nov ~02:35: of https://sovereignwebsite.ai/abp/: "give this to the ABP agent".
+- 26 Nov ~02:40: "yes, start cl-6.abp now" (started by the conductor).
