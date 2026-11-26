@@ -21,3 +21,4 @@
 - 2026-11-26T11:15Z: live feeds for the iOS app: dev adds status fields (summit over, as_of, withheld_count); place events in agenda.json only after cl-6.rights says yes (commercial_use unclear, billing rule of 18 Nov).
 - 2026-11-26T11:19Z: /app/ becomes the PrompTugal.news app page (what the iOS app reads); the summit app kept at an archive link (sherpa S3; owner cl-6.dev).
 - 2026-11-26T11:19Z: A5 stays as live, author line unchanged (accurate).
+- 2026-11-26T11:39Z: masthead price line ("Pay for what you read · £4.99") comes off until Dinis decides the price wording; /account/'s "Nothing is charged" stays (synthetic N1; money is Dinis's, removal is reversible).

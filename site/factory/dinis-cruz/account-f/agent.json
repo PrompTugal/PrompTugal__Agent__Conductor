@@ -181,6 +181,10 @@
     {
       "what": "Security's one line (low): delete branch work/investors.packs in PrompTugal__News__Website; it holds a private person's first name and surname initial in run-report request heads and nothing dev needs (head 6b61e9442).",
       "since": "2026-11-26T11:23Z"
+    },
+    {
+      "what": "Price wording: the masthead said 'Pay for what you read · £4.99' while /account/ says 'Nothing is charged'; masthead line removed meanwhile. What does the site promise readers about price? (with the /contribute/ money line)",
+      "since": "2026-11-26T11:39Z"
     }
   ],
   "sessions_started": [
