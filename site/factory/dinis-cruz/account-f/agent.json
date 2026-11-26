@@ -149,6 +149,22 @@
     {
       "what": "cl-6.data blocked on IaC #25 (security: News__Data added to its policy by infra); data.promptugal.news on 21 Nov data until #25 is merged and data's key PR pinned.",
       "since": "2026-11-26T07:20Z"
+    },
+    {
+      "what": "Spend: telemetry reports $409.05 API-equivalent across 49 sessions by 11:15 UTC (estimate high was $166.80 a day); per-agent caps are money, so Dinis's; accountant drafting a caps proposal.",
+      "since": "2026-11-26T11:19Z"
+    },
+    {
+      "what": "One role one session: the old @PrompTugal.vicky sessions (reviewer, journalist-ai, curator, checker) still commit; stop them and disable their wakes?",
+      "since": "2026-11-26T11:19Z"
+    },
+    {
+      "what": "Key-bootstrap PRs: data, signals, cyber, bulletins need one non-dev branch push and one PR each after IaC #25 (R5, R7); cl-6.abp folding into one proposal (P9).",
+      "since": "2026-11-26T11:19Z"
+    },
+    {
+      "what": "ABP list for Dinis is now P1 to P10 (+ grant paths for history/** etc.).",
+      "since": "2026-11-26T11:19Z"
     }
   ],
   "sessions_started": [

@@ -19,3 +19,5 @@
 - 2026-11-26T06:12Z: media outlet records carry the outlet only, no named staff, until Jose's staff-data question is settled; outlets' public newsroom addresses allowed under CLAUDE.md 'Contacts', through dev and security.
 - 2026-11-26T06:12Z: cl-6.analyst takes over A5 (firms and AI).
 - 2026-11-26T11:15Z: live feeds for the iOS app: dev adds status fields (summit over, as_of, withheld_count); place events in agenda.json only after cl-6.rights says yes (commercial_use unclear, billing rule of 18 Nov).
+- 2026-11-26T11:19Z: /app/ becomes the PrompTugal.news app page (what the iOS app reads); the summit app kept at an archive link (sherpa S3; owner cl-6.dev).
+- 2026-11-26T11:19Z: A5 stays as live, author line unchanged (accurate).
