@@ -84,7 +84,7 @@
     "PrompTugal/PrompTugal__News__Data"
    ],
    "wave": 2,
-   "wake": "not yet: created when the agent reports its setup done",
+   "wake": "trig_011suoS9idWhUVuJnSyymFKb: 07:03 and 18:03 Lisbon (set 2026-11-26T02:27Z)",
    "does": "the collectors, twin of data.b",
    "id": "session_016CrbJJKUtCUXi5dhrb3Ahs",
    "url": "https://claude.ai/code/session_016CrbJJKUtCUXi5dhrb3Ahs",
@@ -296,7 +296,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "trig_01TpCMKY9LH8BmcovKAjixSp: 08:23 and 19:23 Lisbon (set 2026-11-26T02:27Z)",
    "does": "its role in the website's CLAUDE.md team table",
    "id": "session_016CrbJKnk1brEbFLeWGxmxT",
    "url": "https://claude.ai/code/session_016CrbJKnk1brEbFLeWGxmxT",
