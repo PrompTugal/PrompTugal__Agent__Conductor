@@ -450,7 +450,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "trig_01LpNeHrddaRcvCRFx2nqC5N: 07:33 and 18:33 Lisbon (set 2026-11-26T02:31Z)",
    "does": "its role in the website's CLAUDE.md team table",
    "id": "session_016CrbJMo1RxSSek8dG1KAgr",
    "url": "https://claude.ai/code/session_016CrbJMo1RxSSek8dG1KAgr",
@@ -492,7 +492,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "trig_0196r9ot5LnA6ZA8ypiiZdiR: 09:33 and 20:33 Lisbon (set 2026-11-26T02:31Z)",
    "does": "its role in the website's CLAUDE.md team table",
    "id": "session_016CrbJJDSkkAQSxQ7VDxwzv",
    "url": "https://claude.ai/code/session_016CrbJJDSkkAQSxQ7VDxwzv",
@@ -520,7 +520,7 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "trig_01Cmw7hF4jyh5s6FZ7AN7Qwe: 08:03 and 19:03 Lisbon (set 2026-11-26T02:31Z)",
    "does": "twin of reviewer@PrompTugal.vicky",
    "id": "session_016CrbJMGozMvJhLHPUTvy9j",
    "url": "https://claude.ai/code/session_016CrbJMGozMvJhLHPUTvy9j",
@@ -601,6 +601,7 @@
  },
  "history_rule": "Dinis (26 Nov, in cl-6.maestro's session): every agent moves its entire history into its home: history/ with the original paths, history/PROVENANCE.md, history/git-log.md; the old folders become pointers only after the agent confirms.",
  "notes": [
-  "2026-11-26T02:17Z: Dinis deleted the fringe.promptugal.news record (security S2); cl-6.infra checks every promptugal.news record and proposes verifying the domain on the organisation"
+  "2026-11-26T02:17Z: Dinis deleted the fringe.promptugal.news record (security S2); cl-6.infra checks every promptugal.news record and proposes verifying the domain on the organisation",
+  "2026-11-26T02:31Z: section repositories (events, live, videos, library, cyber, bulletins) refuse the cl-6 agents' P-256 keys: their commit checks accept only ed25519 keys already listed in team/keys.json; cl-6.security asked for one bootstrap route for Dinis"
  ]
 }
