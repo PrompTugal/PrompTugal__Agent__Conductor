@@ -187,6 +187,10 @@
     {
       "at": "2026-11-26T19:55Z",
       "event": "cl-6.dev: tagline and pay-for-what-you-read page are content/**, outside its grant (it wrote content/** three times today by mistake, logged). Asked cl-6.abp for a one-off grant for those two files, security reviewing; designer asked to reword 'locked'. Dev built the front-page explainer field (with security); v0.1.2339 released. Gap: content/** has no live owner while cl-6.journalist waits on Dinis to attach the website."
+    },
+    {
+      "at": "2026-11-26T19:55Z",
+      "event": "cl-6.rights wake 19:53 (ed3de74): no HOLD; /weather/ accurate in v0.1.2339; all IPMA feeds and the cams feed on data.promptugal.news last read 21 Nov (waits on News__Data #1)."
     }
   ],
   "waiting_on": [
@@ -229,6 +233,10 @@
     {
       "what": "P9 beyond the cl-6.data trial (cl-6.abp, 18:39): each further role (cyber, signals, bulletins, events, library, live, videos, travel) needs cl-6.security's read of News__Data #1, then Dinis's word in cl-6.abp's session. Host lists: cl-6.abp proposes per role with security and rights; a new host is Dinis's.",
       "since": "2026-11-26T18:39Z"
+    },
+    {
+      "what": "Content on the website has no live owner (cl-6.journalist waits on Dinis attaching the website). The tagline fix ('PrompTugal.news: Portugal's news, town by town') and the new /pay-for-what-you-read/ page wait on a one-off grant for cl-6.dev: Dinis's word in cl-6.abp's session, or a cl-6.decisions record quoting his words (asked 19:57). Who owns content/** long term is Dinis's.",
+      "since": "2026-11-26T19:55Z"
     }
   ],
   "sessions_started": [
