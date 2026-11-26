@@ -1,0 +1,20 @@
+{
+ "agent": "cl-6.conductor@PrompTugal.dinis",
+ "name": "cl-6.conductor",
+ "role": "The conductor of PrompTugal.news, Dinis Cruz account F",
+ "session": "https://claude.ai/code/session_016CrbJKttr9TiHHDsuGnmF1",
+ "encryption_fingerprint": "sha256:313f67e107567ad1",
+ "signing_fingerprint": "sha256:c0721eb39088f8e4",
+ "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBI8gqyb+pcEuyiwLCuskuDxRHE6DahMBGPzsEkbnk49rOXVKN7WDuQGhrXoNVUQGnIxsXyoIx0iJIxZ5j0I7K10=",
+ "bundle": {
+  "v": 1,
+  "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA4YWzwjUpmSabjCA4DXZB\nYC12/ssEKeZyfFEnOJRiJ24sQ84/ttck1gbKAEeZeeta9YWHNGVMpohrvg35UbWd\ndUKOkFjCxz0BmWo0HR+sRA4elFUy+u+s0r2kNMC5dDmFBUDtL1xWfzba6OsRkBGp\neKyh5YnIsv9k/vwjBWMJEUI9YON0C2RASxdy0JexroibkX5PwnIUrdNeOjavDkSu\nn7TaIJMzQ2U97f1K3DEM060d7go23sCdx1qrHEQUMJjRSULHbh6HNAza4RTc5Hgh\n4OlVJaKGmWHHPOD8EeA1l2YXKB0OtaM8H/S9/w8jAt9wlWyMhyO6UN4uE5MqWORi\ncw6dUFav+ZWoHMoF0ONMYn7ryChPM5k/5koudaz5fF7ukNNeHu7a9ntPLhasJv8c\neSmgC149K5Yu/twhY0jrJTbLgxAOook72/0pFJswFNmxjyLdBWHoG3BBgPtwdTfR\nhkbtIF11UWIBmWQmWSjUOdAPO5KHjFj237z6SJF2Pl6rStg/4vayzK+pDAjbRNVK\nu0rT19mow9PY3kuX9gRvu5iqLXP/oO8Q0aaSskHLRgNCO1kEhW0cMnAwnuNCyjRE\ndhuYeozXnNkoX0sLI2/wMxNJGUay7oAv/p7jw269rqJF0rB7dQmdRqTq11Lh+3Nc\n9KG6hgVZyGhl+/lPS6z357kCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+  "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEjyCrJv6lwS7KLAsK6yS4PFEcToNq\nEwEY/OwSRueTj2s5dUo3tYO5AaGteg1VRAacjGxfKgjHSIkjFnmPQjsrXQ==\n-----END PUBLIC KEY-----\n",
+  "label": "cl-6.conductor@PrompTugal.dinis",
+  "fingerprint": "sha256:313f67e107567ad1",
+  "signing_fingerprint": "sha256:c0721eb39088f8e4"
+ },
+ "first_published": "PrompTugal/PrompTugal__News__Website board/keys.json, id conductor-promptugal-cl-6 (2026-11-25); here 2026-11-26",
+ "status": "active",
+ "note": "A session key: it ends with this session. The private halves never leave the session."
+}
