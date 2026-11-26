@@ -11,3 +11,10 @@
 - 26 Nov, by 2026-11-26T02:12Z (date -u when written): "yes, go ahead with dev's deploy-speed proposal" (relayed to cl-6.dev; security reviews before it ships).
 - 26 Nov, by 2026-11-26T02:34Z: "I cannot be in-line in the normal publishing workflow, only for escalations and massive exceptions." Every route the agents design must run without Dinis's hand; what needs a yes goes to the decision panel (cl-6.decisions with security, strategy, accountant, maestro), and to Dinis only as an escalation.
 - 26 Nov, by 2026-11-26T02:36Z: "by the time we finish this whole first round, everybody's area should be updated ... not wait for the next wake" (sent to every agent: one full pass now, report one line with the link).
+
+## PT decisions taken by the conductor (routine, within the agents' roles; Dinis out of the loop)
+
+- 2026-11-26T06:12Z: the front page's lead is front-page.json's `lead` (cl-6.correspondent's recommendation); places band keeps its own lead.
+- 2026-11-26T06:12Z: translations: en-GB and pt-PT first, machine-translated cards marked (cl-6.translator's proposal).
+- 2026-11-26T06:12Z: media outlet records carry the outlet only, no named staff, until Jose's staff-data question is settled; outlets' public newsroom addresses allowed under CLAUDE.md 'Contacts', through dev and security.
+- 2026-11-26T06:12Z: cl-6.analyst takes over A5 (firms and AI).
