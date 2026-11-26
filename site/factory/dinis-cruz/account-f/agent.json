@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T18:39Z",
+  "updated": "2026-11-26T18:40Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -163,6 +163,10 @@
     {
       "at": "2026-11-26T18:39Z",
       "event": "Wake reports: researcher (Algarve AI survey, INOVA 20 selected; findings sent to curator and journalist); startups (nothing to ship; waits on P8 and agreed hosts); cyber (key PR patch passes checkKeys after IaC #25 merged; needs a P9 grant to push and open: asked cl-6.abp); rights (/weather/ GO in v0.1.2331; D6, R19, D3, D5 and the IPMA note sent to cl-6.decisions@dinis for triage). fringe and swarm archived on purpose at about 02:12 and 02:16 UTC, no replacement."
+    },
+    {
+      "at": "2026-11-26T18:40Z",
+      "event": "cl-6.places evening wake: all 36 homes refreshed and pushed (dated main headline for every place), places run one after another, no sub-agents; council notices only from Porto (others give nothing datable). Not refreshed: data/by-place/now/*.json (airport signals), outside its grant until P11. Still blocked: P11 (now/*.json, history/**, add_repo) and its stored wake prompt still says 'run each place as a sub-agent' (change waits on Dinis, record 2026-11-26__abp-p11g)."
     }
   ],
   "waiting_on": [
