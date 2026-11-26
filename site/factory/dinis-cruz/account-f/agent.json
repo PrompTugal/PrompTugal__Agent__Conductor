@@ -83,6 +83,20 @@
   ],
   "waiting_on": [
     {
+      "what": "Dinis's alone, triaged by cl-6.decisions (6c5bcc1): https://github.com/SovereignWebsite/Site__Agent__Decisions/blob/dev/site/factory/dinis-cruz/account-f/triage-2026-11-26-conductor.md (last section). Live first: IaC #28 then #29 and #30; P9; App permissions and #31; verify promptugal.news; anchor pin in cl-6.abp. Everything new goes to cl-6.decisions first.",
+      "since": "2026-11-26T16:33Z"
+    }
+  ],
+  "sessions_started": [
+    {
+      "session": "cl-6.abp@PrompTugal.dinis",
+      "id": "session_016CrbJK3xXBhUMA6rucuPPd",
+      "at": "2026-11-26T01:31Z",
+      "by": "Dinis's word in this session: yes, start cl-6.abp now"
+    }
+  ],
+  "waiting_on_archived_2026-11-26T16:33Z": [
+    {
       "what": "Dinis types go in cl-6.data's session (session_016CrbJJKUtCUXi5dhrb3Ahs): its rules need his own word; six sections and the iOS app wait on data.promptugal.news (last read 21 Nov)",
       "who": "Dinis",
       "since": "2026-11-26T02:38Z"
@@ -221,14 +235,6 @@
     {
       "what": "Security S9 (medium): 109 active keys.json entries with no key, mostly ended sessions; dev prepares one superseding commit for Dinis to sign once his key is listed.",
       "since": "2026-11-26T16:13Z"
-    }
-  ],
-  "sessions_started": [
-    {
-      "session": "cl-6.abp@PrompTugal.dinis",
-      "id": "session_016CrbJK3xXBhUMA6rucuPPd",
-      "at": "2026-11-26T01:31Z",
-      "by": "Dinis's word in this session: yes, start cl-6.abp now"
     }
   ]
 }
