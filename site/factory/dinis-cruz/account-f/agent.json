@@ -223,6 +223,10 @@
   ],
   "waiting_on": [
     {
+      "what": "MONEY, Dinis (cl-6.accountant via telemetry 21:17Z, API-equivalent, unverified): 52 sessions from $595.54 to $1,106.01 in 5.3 h; the undecided caps proposal's $170 warning and $300 stop-and-ask a day far exceeded. Over 16 Nov budgets: security $244.98/$30, conductor $144.81/$50, dev $68.43/$60, journalist $41.54/$35, abp $32.42/$25, devops $28.18/$20, translator $22.77/$10, backup $8.80/$5. Decide a cap or ceiling now; stops go through cl-6.maestro. Sent to cl-6.decisions@dinis 21:19.",
+      "since": "2026-11-26T21:18Z"
+    },
+    {
       "what": "Dinis's alone, triaged by cl-6.decisions (6c5bcc1): https://github.com/SovereignWebsite/Site__Agent__Decisions/blob/dev/site/factory/dinis-cruz/account-f/triage-2026-11-26-conductor.md (last section). Live first: IaC #28 then #29 and #30; P9; App permissions and #31; verify promptugal.news; anchor pin in cl-6.abp. Everything new goes to cl-6.decisions first.",
       "since": "2026-11-26T16:33Z"
     },
