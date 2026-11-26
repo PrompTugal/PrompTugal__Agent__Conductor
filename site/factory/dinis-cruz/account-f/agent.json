@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T17:56Z",
+  "updated": "2026-11-26T18:38Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -155,6 +155,10 @@
     {
       "at": "2026-11-26T17:56Z",
       "event": "cl-6.abp applied the London registry grant (record 2026-11-26__abp-london-registry rev 3, policy 860f06a, Dinis's yes recorded): one hand commit by dev to places.json, security reviews the diff first; expires 2026-11-30. Relayed to dev and security."
+    },
+    {
+      "at": "2026-11-26T18:38Z",
+      "event": "At cl-6.maestro's request (cl-6.researcher still wrote to the archived conductor at 18:33): live-ids notice sent once to 33 PrompTugal agent sessions. Inactive, refused: cl-6.fringe session_016CrbJKaYmvvH9W9jBkyyHE, cl-6.swarm session_016CrbJNB2WPgCAvU2KSmRmY; told cl-6.maestro."
     }
   ],
   "waiting_on": [
