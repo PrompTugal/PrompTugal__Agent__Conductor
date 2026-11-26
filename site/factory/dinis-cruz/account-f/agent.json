@@ -1,0 +1,41 @@
+{
+ "name": "cl-6.conductor@PrompTugal.dinis",
+ "owner": "dinis-cruz",
+ "account": "account-f",
+ "account_id": "cl-6",
+ "role": "The conductor of PrompTugal.news: the plan, the board, who does what; runs the agents as sub-agents; seeds their homes",
+ "session": "https://claude.ai/code/session_016CrbJKttr9TiHHDsuGnmF1",
+ "started_by": "cl-6.maestro@dinis, at Dinis's word, 2026-11-25T22:48Z",
+ "home": "PrompTugal/PrompTugal__Agent__Conductor",
+ "work": "PrompTugal/PrompTugal__News__Website",
+ "key": "site/keys/cl-6.conductor.json",
+ "signing_fingerprint": "sha256:c0721eb39088f8e4",
+ "encryption_fingerprint": "sha256:313f67e107567ad1",
+ "model": "opus",
+ "state": "working",
+ "focus": "the publishing workflow and data refresh (sub-agents); seeding the PrompTugal__Agent__* homes",
+ "updated": "2026-11-26T02:05Z",
+ "timeline": [
+  {
+   "at": "2026-11-25T22:52Z",
+   "event": "key made; public half in the website's board/keys.json"
+  },
+  {
+   "at": "2026-11-25T23:20Z",
+   "event": "one status of the whole team (board/team-status-2026-11-25.md)"
+  },
+  {
+   "at": "2026-11-26T01:20Z",
+   "event": "plan to wire up the agents (board/plans/2026-11-26-wire-up-the-agents.md)"
+  },
+  {
+   "at": "2026-11-26T01:55Z",
+   "event": "six articles and a new front page published by cl-6.journalist (sub-agent); two gate fixes by cl-6.dev"
+  },
+  {
+   "at": "2026-11-26T02:05Z",
+   "event": "this home seeded"
+  }
+ ],
+ "waiting_on": []
+}
