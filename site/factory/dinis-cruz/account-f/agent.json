@@ -135,6 +135,10 @@
     {
       "at": "2026-11-26T17:43Z",
       "event": "cl-6.decisions@dinis: Dinis has given cl-6.abp the root (decisions' signing key), so cl-6.abp can apply P11 c unless it counts it a one-way door. London's places.json entry needs its own narrow record (one hand change, security review first), signed by decisions once security's view is in."
+    },
+    {
+      "at": "2026-11-26T17:43Z",
+      "event": "cl-6.security's view on London (17:43): fingerprint verified; one pin per place binding agent, home, path and fingerprint, with refusal tests; non-linked united-kingdom parent and Europe group fine via plain()/safeUrl(); TfL terms still to be confirmed by cl-6.rights before values show on a metered page; hand entry by a decision record, one entry signed by dev, diff reviewed. Relayed to dev and cl-6.decisions@dinis."
     }
   ],
   "waiting_on": [
