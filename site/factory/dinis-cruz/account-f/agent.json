@@ -14,7 +14,7 @@
  "model": "opus",
  "state": "thinking only: plans, routes, checks, starts sessions and wakes at Dinis's word",
  "focus": "waves 1 and 2 setting up; push access to each work repository waits on Dinis in each session; wakes as each setup finishes",
- "updated": "2026-11-26T02:38Z",
+ "updated": "2026-11-26T02:42Z",
  "timeline": [
   {
    "at": "2026-11-25T22:52Z",
@@ -63,6 +63,10 @@
   {
    "at": "2026-11-26T02:38Z",
    "event": "first full pass asked of every agent; most areas done; escalations listed in waiting_on"
+  },
+  {
+   "at": "2026-11-26T02:42Z",
+   "event": "ABP v1.2.0 out (identity R14). The wake prompts cannot be edited from the conductor's session (only from the session each posts into): the identity line goes out in cl-6.maestro's 06:05 nudge, each agent updates its own wake. iOS brief published (board/briefs/2026-11-26-ios-app.md)."
   }
  ],
  "waiting_on": [
@@ -95,6 +99,16 @@
    "what": "observability: account A's drain stopped? and the sealed drain credentials; backup: a durable destination; promptugal.news verified for the organisation's Pages",
    "who": "Dinis",
    "since": "2026-11-26T02:38Z"
+  },
+  {
+   "what": "cl-6.abp's proposals P1 (telemetry reads transcripts, as telemetry.b had) and P2 (sub-agents for every role); its website attach for board/abp/",
+   "who": "Dinis",
+   "since": "2026-11-26T02:42Z"
+  },
+  {
+   "what": "rights R19: cm-tavira and teatro-das-figuras unclear; the old 'wires' accountant task trig_016WqCGyyrFtnuWkrTLWmgaP still firing into an old SGit newsroom session (delete or keep)",
+   "who": "Dinis",
+   "since": "2026-11-26T02:42Z"
   }
  ],
  "sessions_started": [
