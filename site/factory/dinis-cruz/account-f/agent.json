@@ -197,6 +197,18 @@
     {
       "what": "Second delegation line, in cl-6.decisions' session: 'cl-6.decisions may decide cl-6.abp's relaxations on my behalf, except the one-way doors'.",
       "since": "2026-11-26T15:59Z"
+    },
+    {
+      "what": "IaC #28 (security passed): certificate nudges only on a dispatch with nudge set, once a day per site; stops takeover windows and push races; infra holds Org apply until merged. https://github.com/PrompTugal/PrompTugal__IaC/pull/28",
+      "since": "2026-11-26T16:10Z"
+    },
+    {
+      "what": "S2: verify promptugal.news for the PrompTugal organisation (GitHub Settings, Pages): the real fix for 25 bad_authz certificates.",
+      "since": "2026-11-26T16:10Z"
+    },
+    {
+      "what": "Maestro's create_session refused by its session's permission check: Dinis to allow it (D-CONDUCTOR-RESET signed, 05b0e60), and to decide whether the maestro may start sessions without a prompt.",
+      "since": "2026-11-26T16:10Z"
     }
   ],
   "sessions_started": [
