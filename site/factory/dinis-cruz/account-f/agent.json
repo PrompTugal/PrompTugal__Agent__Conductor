@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T17:44Z",
+  "updated": "2026-11-26T17:55Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -147,6 +147,10 @@
     {
       "at": "2026-11-26T17:44Z",
       "event": "London registry entry signed by cl-6.decisions@dinis: record 2026-11-26__abp-london-registry (c49b4e6), with security's four conditions; sent to cl-6.abp and cl-6.dev. London's place-signers.json pin is a separate key-trust change, security first, not granted by it."
+    },
+    {
+      "at": "2026-11-26T17:55Z",
+      "event": "cl-6.data opened its key PR under the grant cl-6.abp applied: https://github.com/PrompTugal/PrompTugal__News__Data/pull/1 (head 09e28004efdc). Next: cl-6.security signs its approval, the App merges, then data pushes its two collection commits; data.promptugal.news stays on 21 Nov data until then."
     }
   ],
   "waiting_on": [
