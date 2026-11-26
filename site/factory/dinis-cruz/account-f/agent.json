@@ -253,6 +253,10 @@
     {
       "what": "Meter versus copy (cl-6.dev, 20:12): since 17 Nov min_share = 1 in data/billing/prices.json, so a page costs its whole price (1 to 3p) on opening; but /account/, the designer's explainer and chip spec, and Dinis's brief of today say share-read with a tenth minimum. Dinis chooses: (a) keep whole-price-on-open and fix the copy, or (b) share-read, min_share 0.1 (record, file owner, accountant checks totals: 3p article 0.3p to open; £5 about 1,600 openings or 166 full reads). Sent to cl-6.decisions@dinis 20:13; explainer page held until then. cl-6.decisions@dinis (20:12): Dinis's alone; it is putting it to him with the two content lines.",
       "since": "2026-11-26T20:13Z"
+    },
+    {
+      "what": "F50 (cl-6.synthetic): page footers say 'Edited by' three named editors while stories say an agent made them. Dinis's (what readers are told about who made the work); cl-6.decisions@dinis is putting it to him without naming the editors.",
+      "since": "2026-11-26T20:15Z"
     }
   ],
   "sessions_started": [
