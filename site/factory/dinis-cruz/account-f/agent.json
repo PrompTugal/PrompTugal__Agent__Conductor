@@ -14,7 +14,7 @@
  "model": "opus",
  "state": "thinking only: plans, routes, checks, starts sessions and wakes at Dinis's word",
  "focus": "waves 1 and 2 setting up; push access to each work repository waits on Dinis in each session; wakes as each setup finishes",
- "updated": "2026-11-26T06:20Z",
+ "updated": "2026-11-26T06:22Z",
  "timeline": [
   {
    "at": "2026-11-25T22:52Z",
@@ -99,7 +99,7 @@
    "since": "2026-11-26T02:38Z"
   },
   {
-   "what": "the key route, once: three permissions on the GitHub App's PrompTugal installation (Variables, Pull requests, Workflows write) and one IaC policy merge (policy/key-bootstrap.json) \u2014 NOT YET: PrompTugal__IaC #25 is back with cl-6.infra with seven blocking changes from cl-6.security (2026-11-26T06:16Z); it comes to Dinis only once security passes it",
+   "what": "THE ONE EXCEPTION, ready (2026-11-26T06:22Z, passed by cl-6.security at f3a2b47): (1) merge PrompTugal__IaC #25; (2) add to the GitHub App's PrompTugal installation: Commit statuses write, Variables write, Pull requests write, Workflows write, Actions read; (3) turn on #25's two schedules (or tell cl-6.infra to). After that no person is in the loop for section keys or gate changes. Review: https://github.com/PrompTugal/PrompTugal__Agent__Security/blob/dev/docs/security/reviews/2026-11-26-iac-pr25.md",
    "who": "Dinis",
    "since": "2026-11-26T02:38Z"
   },
