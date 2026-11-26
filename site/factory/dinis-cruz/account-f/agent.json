@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T18:40Z",
+  "updated": "2026-11-26T18:48Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -167,6 +167,10 @@
     {
       "at": "2026-11-26T18:40Z",
       "event": "cl-6.places evening wake: all 36 homes refreshed and pushed (dated main headline for every place), places run one after another, no sub-agents; council notices only from Porto (others give nothing datable). Not refreshed: data/by-place/now/*.json (airport signals), outside its grant until P11. Still blocked: P11 (now/*.json, history/**, add_repo) and its stored wake prompt still says 'run each place as a sub-agent' (change waits on Dinis, record 2026-11-26__abp-p11g)."
+    },
+    {
+      "at": "2026-11-26T18:48Z",
+      "event": "cl-6.curator: 18:50 map shipped after cl-6.security's yes, live in v0.1.2336 (website 16b209719); pick to cl-6.journalist. Open with cl-6.checker: DevFest Faro 27 Nov and INOVA 15 or 20 (pointed curator at researcher's finding: 20)."
     }
   ],
   "waiting_on": [
