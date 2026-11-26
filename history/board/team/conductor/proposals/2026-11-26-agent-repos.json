@@ -1,0 +1,563 @@
+{
+ "about": "Proposed by cl-6.conductor@PrompTugal.dinis for cl-6.infra@PrompTugal.dinis, to add to PrompTugal__IaC org/repos.json 'proposed' beside its draft of 16 (which already has Conductor, Library and the site leads). At Dinis's word (26 Nov 2026, about 00:10 UTC): each agent gets its own repo, the place desks included. Entries use cl-6.infra's shape. Merged, not repeated: librarian@ goes into PrompTugal__Agent__Library; Vicky's conductor, dev, designer, journalist and weather desks go into ours (Conductor, Dev, Designer, Journalist, and cl-6.infra's Weather). Agents with the same name are twins and share one home (Dinis, 26 Nov). Model: Sonnet for every agent, Opus for security (and decisions, which is not in this list). Specialities of one role are one agent with one home (Dinis, 26 Nov about 00:30 UTC: Vicky's journalists for AI and other areas are all part of one journalist): Vicky's journalists go into PrompTugal__Agent__Journalist, dev.* into Dev, designer.experiments into Designer.",
+ "proposed": "2026-11-26T00:15Z",
+ "status": "proposed, waiting on Dinis's yes in cl-6.infra's session",
+ "count": 55,
+ "repos": [
+  {
+   "name": "PrompTugal__Agent__Journalist",
+   "description": "Home of PrompTugal.news's journalist (articles, sourced and signed): its key, area, state and site.",
+   "site": "journalist.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 1,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Dev",
+   "description": "Home of PrompTugal.news's dev agent (build, gate, CI): its key, area, state and site.",
+   "site": "dev.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 1,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Security",
+   "description": "Home of PrompTugal.news's security agent (reviews, HOLD): its key, area, state and site.",
+   "site": "security.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 1,
+   "model": "opus"
+  },
+  {
+   "name": "PrompTugal__Agent__Correspondent",
+   "description": "Home of PrompTugal.news's correspondent (the front page and the beats): its key, area, state and site.",
+   "site": "correspondent.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Designer",
+   "description": "Home of PrompTugal.news's designer (design, the brand): its key, area, state and site.",
+   "site": "designer.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Accountant",
+   "description": "Home of PrompTugal.news's accountant (budgets): its key, area, state and site.",
+   "site": "accountant.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__ABP",
+   "description": "Home of PrompTugal.news's ABP agent (behaviour policies): its key, area, state and site.",
+   "site": "abp.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Ontologist",
+   "description": "Home of PrompTugal.news's ontologist (schemas, the graph): its key, area, state and site.",
+   "site": "ontologist.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Observability",
+   "description": "Home of PrompTugal.news's observability agent: its key, area, state and site.",
+   "site": "observability.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__DevOps",
+   "description": "Home of PrompTugal.news's devops agent: its key, area, state and site.",
+   "site": "devops.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Sherpa",
+   "description": "Home of PrompTugal.news's sherpa (the reader's guide): its key, area, state and site.",
+   "site": "sherpa.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Synthetic",
+   "description": "Home of PrompTugal.news's synthetic readers: its key, area, state and site.",
+   "site": "synthetic.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Rights",
+   "description": "Home of PrompTugal.news's rights agent (licences, terms): its key, area, state and site.",
+   "site": "rights.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Translator",
+   "description": "Home of PrompTugal.news's translator: its key, area, state and site.",
+   "site": "translator.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 3,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Telemetry",
+   "description": "Home of PrompTugal.news's telemetry agent: its key, area, state and site.",
+   "site": "telemetry.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 3,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Historian",
+   "description": "Home of PrompTugal.news's historian: its key, area, state and site.",
+   "site": "historian.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 3,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Researcher",
+   "description": "Home of PrompTugal.news's researcher: its key, area, state and site.",
+   "site": "researcher.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 3,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Outreach",
+   "description": "Home of PrompTugal.news's outreach agent (drafts only): its key, area, state and site.",
+   "site": "outreach.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 3,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Backup",
+   "description": "Home of PrompTugal.news's backup agent: its key, area, state and site.",
+   "site": "backup.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 3,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Investors",
+   "description": "Home of PrompTugal.news's investors agent: its key, area, state and site.",
+   "site": "investors.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 3,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Customers",
+   "description": "Home of PrompTugal.news's customers agent: its key, area, state and site.",
+   "site": "customers.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 3,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Albufeira",
+   "description": "Home of PrompTugal.news's place.albufeira desk: its key, area, state and site.",
+   "site": "place-albufeira.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Alcoutim",
+   "description": "Home of PrompTugal.news's place.alcoutim desk: its key, area, state and site.",
+   "site": "place-alcoutim.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Algarve",
+   "description": "Home of PrompTugal.news's place.algarve desk: its key, area, state and site.",
+   "site": "place-algarve.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Algarve-Central",
+   "description": "Home of PrompTugal.news's place.algarve.central desk: its key, area, state and site.",
+   "site": "place-algarve-central.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Algarve-East",
+   "description": "Home of PrompTugal.news's place.algarve.east desk: its key, area, state and site.",
+   "site": "place-algarve-east.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Algarve-West",
+   "description": "Home of PrompTugal.news's place.algarve.west desk: its key, area, state and site.",
+   "site": "place-algarve-west.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Aljezur",
+   "description": "Home of PrompTugal.news's place.aljezur desk: its key, area, state and site.",
+   "site": "place-aljezur.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Castro-Marim",
+   "description": "Home of PrompTugal.news's place.castro-marim desk: its key, area, state and site.",
+   "site": "place-castro-marim.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Districts",
+   "description": "Home of PrompTugal.news's place.districts desk: its key, area, state and site.",
+   "site": "place-districts.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Faro",
+   "description": "Home of PrompTugal.news's place.faro desk: its key, area, state and site.",
+   "site": "place-faro.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Lagoa",
+   "description": "Home of PrompTugal.news's place.lagoa desk: its key, area, state and site.",
+   "site": "place-lagoa.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Lagos",
+   "description": "Home of PrompTugal.news's place.lagos desk: its key, area, state and site.",
+   "site": "place-lagos.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Loule",
+   "description": "Home of PrompTugal.news's place.loule desk: its key, area, state and site.",
+   "site": "place-loule.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Monchique",
+   "description": "Home of PrompTugal.news's place.monchique desk: its key, area, state and site.",
+   "site": "place-monchique.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Olhao",
+   "description": "Home of PrompTugal.news's place.olhao desk: its key, area, state and site.",
+   "site": "place-olhao.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Portimao",
+   "description": "Home of PrompTugal.news's place.portimao desk: its key, area, state and site.",
+   "site": "place-portimao.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Portugal",
+   "description": "Home of PrompTugal.news's place.portugal desk: its key, area, state and site.",
+   "site": "place-portugal.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Quarteira",
+   "description": "Home of PrompTugal.news's place.quarteira desk: its key, area, state and site.",
+   "site": "place-quarteira.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Sao-Bras-De-Alportel",
+   "description": "Home of PrompTugal.news's place.sao-bras-de-alportel desk: its key, area, state and site.",
+   "site": "place-sao-bras-de-alportel.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Silves",
+   "description": "Home of PrompTugal.news's place.silves desk: its key, area, state and site.",
+   "site": "place-silves.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Tavira",
+   "description": "Home of PrompTugal.news's place.tavira desk: its key, area, state and site.",
+   "site": "place-tavira.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Vila-Do-Bispo",
+   "description": "Home of PrompTugal.news's place.vila-do-bispo desk: its key, area, state and site.",
+   "site": "place-vila-do-bispo.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Place__Vila-Real-De-Santo-Antonio",
+   "description": "Home of PrompTugal.news's place.vila-real-de-santo-antonio desk: its key, area, state and site.",
+   "site": "place-vila-real-de-santo-antonio.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Places__Data",
+   "description": "Home of PrompTugal.news's data.places desk: its key, area, state and site.",
+   "site": "data-places.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Places__Datasci",
+   "description": "Home of PrompTugal.news's datasci.places desk: its key, area, state and site.",
+   "site": "datasci-places.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Places__Designer",
+   "description": "Home of PrompTugal.news's designer.places desk: its key, area, state and site.",
+   "site": "designer-places.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Places__Detective",
+   "description": "Home of PrompTugal.news's detective.places desk: its key, area, state and site.",
+   "site": "detective-places.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Places__Dev",
+   "description": "Home of PrompTugal.news's dev.places desk: its key, area, state and site.",
+   "site": "dev-places.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Places__Viz",
+   "description": "Home of PrompTugal.news's viz.places desk: its key, area, state and site.",
+   "site": "viz-places.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 2,
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Reviewer",
+   "description": "Home of PrompTugal.news's reviewer (twin of reviewer@PrompTugal.vicky, run here from account F): its key, area, state and site.",
+   "site": "reviewer.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 1,
+   "why": "Dinis, 26 Nov: do everything here, then clean up Vicky's environment",
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Curator",
+   "description": "Home of PrompTugal.news's curator (twin of curator@PrompTugal.vicky, run here from account F): its key, area, state and site.",
+   "site": "curator.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 1,
+   "why": "Dinis, 26 Nov: do everything here, then clean up Vicky's environment",
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Checker",
+   "description": "Home of PrompTugal.news's checker (twin of checker@PrompTugal.vicky, run here from account F): its key, area, state and site.",
+   "site": "checker.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 1,
+   "why": "Dinis, 26 Nov: do everything here, then clean up Vicky's environment",
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Programme",
+   "description": "Home of PrompTugal.news's programme (twin of programme@PrompTugal.vicky, run here from account F): its key, area, state and site.",
+   "site": "programme.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 1,
+   "why": "Dinis, 26 Nov: do everything here, then clean up Vicky's environment",
+   "model": "sonnet"
+  },
+  {
+   "name": "PrompTugal__Agent__Analyst",
+   "description": "Home of PrompTugal.news's analyst (twin of analyst@PrompTugal.vicky, run here from account F): its key, area, state and site.",
+   "site": "analyst.agent.promptugal.news",
+   "works_on": [
+    "PrompTugal__News__Website"
+   ],
+   "phase": 1,
+   "why": "Dinis, 26 Nov: do everything here, then clean up Vicky's environment",
+   "model": "sonnet"
+  }
+ ]
+}

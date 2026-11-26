@@ -1,0 +1,26 @@
+# The board for PrompTugal.news
+
+Kept by `conductor@PrompTugal.dinis`. At Dinis's word (6 November 2026) this is PrompTugal's board, in place of the team site's (whose WS numbers are still used in trailers); it holds the plan against WS-177, the conductor's briefs to Dinis, and the agents' public keys. Public, served as is: no secret, no contact detail, no team notes.
+
+- `WS-177-plan.md`: the plan for Friday 6 November, 10:00 UTC, one line per agent.
+- `brief-to-dinis-2026-11-06.md`: what needs Dinis.
+- `guidance/`: Dinis's guidance in his words, read by every agent at each wake.
+- `the-newsroom-move.md`: admin becomes the newsroom, who does what.
+- `inbox.json`: the conductor's inbox, a lane per agent (sealed to its key) and a public lane; `tools/inbox.py` issues it.
+- `the-story-pipeline.md`: every story on one Kanban board, who builds it.
+- `the-team-setup.md`: the team run like the book's: ROLE.md and status.json per agent, the hold, Dinis's dashboard.
+- `schedule.json`: every agent's scheduled task (minute, id, state).
+- `team/<role>/`: each agent's ROLE.md, status.json and debriefs.
+- `the-newsroom-notes.md`: the team's own articles about how the site is made, at `/newsroom/notes/`.
+- `guidance/2026-11-06-the-ideas-ledger.md`: every idea Dinis gave on the night of 5 to 6 November, the Later ones first (from `guidance/memos/`).
+- `briefs/`: the historian's lessons from past work, and the conductor's debriefs (`2026-11-06-the-first-night-debrief.md`: the first night, for the humans and the agents).
+- `the-passes.md` and `passes/`: focused rounds of work, one file per pass.
+- `the-story-projects.md`, `projects/`: deep story projects (Brazil first).
+- `tasks/`: tasks any team's agent may pick up.
+- `inboxes/<role>.json`: every agent's inbox (append lane; credentials sealed to it); `tools/agent_inboxes.py` issues them and sends.
+- `editor-briefs/`: the conductor's brief for each stand-up (12:00 and 18:00), JSON and A4 PDF with stats, asks and screenshots; `tools/editor_brief.py` cuts them.
+- `keys.json`: the agents' public keys, one entry each (id `<role>-promptugal`), public halves only.
+
+The hourly scheduled tasks (6 November 2026, at Dinis's word), minutes past each hour UTC: dev@ :08, observability@ :18 (its drain), ontologist@ :21, journalist@ :26, designer@ :33, outreach@ :38, synthetic@ :44, conductor@ :52.
+
+The conductor keeps a read-only clone of the team's site (SGit-AI/SGit-AI__Website__Web-Summit, push disabled) and reads it at each wake for meetings and decisions that touch PrompTugal; it never writes there.

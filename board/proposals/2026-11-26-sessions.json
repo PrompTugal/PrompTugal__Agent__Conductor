@@ -1,7 +1,7 @@
 {
  "about": "Proposed by cl-6.conductor@PrompTugal.dinis for cl-6.maestro@dinis, who starts sessions and wakes on account 6 once Dinis says go. Dinis, 26 Nov 2026 about 02:20 UTC: each agent is a separate session on this account with its own repository connected; the conductor only thinks (plans, routes, checks) and has no working repository attached. Sonnet for every session except security (and decisions, the maestro's) on Opus. Each session's first act: make its own key, publish it in its home (site/keys/), add it to the website's board/keys.json, read its board/ in its home. Wave 0 is the ABP agent: no other session starts before its policies exist.",
  "proposed": "2026-11-26T02:30Z",
- "status": "proposed",
+ "status": "waves 0, 1 and 2 started; 3 and 4 proposed",
  "sessions": [
   {
    "session": "cl-6.abp@PrompTugal.dinis",
@@ -11,9 +11,12 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 0,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "wake": "not yet: created when the agent reports its setup done",
    "does": "FIRST, before any other session: the Agent Behaviour Policy for every cl-6 PrompTugal agent, the conductor included (today no policy names cl-6.conductor and the website's hook calls it 'unidentified'). Strict, deny-by-default, one policy per agent from one policy file; the hooks that enforce them; run reports and an hourly review; proposals to Dinis, never relaxing a rule itself. Start prompt and kit: https://sovereignwebsite.ai/abp/ (Dinis, 26 Nov ~02:35 UTC: 'give this to the ABP agent'). Builds on PrompTugal__News__Website board/abp/ (policy v1.20.1) and works with cl-6.infra, whose PrompTugal__IaC policy/abp.json holds the GitHub and AWS side.",
-   "start_with": "https://sovereignwebsite.ai/abp/"
+   "start_with": "https://sovereignwebsite.ai/abp/",
+   "id": "session_016CrbJK3xXBhUMA6rucuPPd",
+   "url": "https://claude.ai/code/session_016CrbJK3xXBhUMA6rucuPPd",
+   "started": "2026-11-26T01:31Z by cl-6.conductor"
   },
   {
    "session": "cl-6.journalist@PrompTugal.dinis",
@@ -23,8 +26,11 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 1,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "research, curation, writing, checking, signing, publishing; the twins of Vicky's curator, checker, reviewer, programme and analyst brief it until they have sessions"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "research, curation, writing, checking, signing, publishing; the twins of Vicky's curator, checker, reviewer, programme and analyst brief it until they have sessions",
+   "id": "session_016CrbJLhtarwbcbxJnrF3bP",
+   "url": "https://claude.ai/code/session_016CrbJLhtarwbcbxJnrF3bP",
+   "started": "2026-11-26T01:43Z by cl-6.conductor"
   },
   {
    "session": "cl-6.dev@PrompTugal.dinis",
@@ -34,8 +40,11 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 1,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the build, the gate, features, CI; reviews nothing it did not write without security"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the build, the gate, features, CI; reviews nothing it did not write without security",
+   "id": "session_016CrbJKEPqF3pNfbncgHqvy",
+   "url": "https://claude.ai/code/session_016CrbJKEPqF3pNfbncgHqvy",
+   "started": "2026-11-26T01:43Z by cl-6.conductor"
   },
   {
    "session": "cl-6.security@PrompTugal.dinis",
@@ -45,8 +54,11 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 1,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "pre- and post-review of every commit across the PrompTugal repositories; HOLD"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "pre- and post-review of every commit across the PrompTugal repositories; HOLD",
+   "id": "session_016CrbJKgXxEmneR8fKwoPhS",
+   "url": "https://claude.ai/code/session_016CrbJKgXxEmneR8fKwoPhS",
+   "started": "2026-11-26T01:43Z by cl-6.conductor"
   },
   {
    "session": "cl-6.correspondent@PrompTugal.dinis",
@@ -56,8 +68,11 @@
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 1,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the front page and the beats"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the front page and the beats",
+   "id": "session_016CrbJKBK3KAiWXzESjt3zH",
+   "url": "https://claude.ai/code/session_016CrbJKBK3KAiWXzESjt3zH",
+   "started": "2026-11-26T01:43Z by cl-6.conductor"
   },
   {
    "session": "cl-6.data@PrompTugal.dinis",
@@ -67,8 +82,11 @@
     "PrompTugal/PrompTugal__News__Data"
    ],
    "wave": 2,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the collectors, twin of data.b"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the collectors, twin of data.b",
+   "id": "session_016CrbJJKUtCUXi5dhrb3Ahs",
+   "url": "https://claude.ai/code/session_016CrbJJKUtCUXi5dhrb3Ahs",
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
   },
   {
    "session": "cl-6.weather@PrompTugal.dinis",
@@ -78,8 +96,11 @@
     "PrompTugal/PrompTugal__News__Weather"
    ],
    "wave": 2,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the weather section"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the weather section",
+   "id": "session_016CrbJMaWr7p8W8MaDmhsYG",
+   "url": "https://claude.ai/code/session_016CrbJMaWr7p8W8MaDmhsYG",
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
   },
   {
    "session": "cl-6.travel@PrompTugal.dinis",
@@ -89,8 +110,11 @@
     "PrompTugal/PrompTugal__News__Travel"
    ],
    "wave": 2,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the travel section"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the travel section",
+   "id": "session_016CrbJMxEaAKd9efCfrsom6",
+   "url": "https://claude.ai/code/session_016CrbJMxEaAKd9efCfrsom6",
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
   },
   {
    "session": "cl-6.civic@PrompTugal.dinis",
@@ -100,8 +124,11 @@
     "PrompTugal/PrompTugal__News__Civic"
    ],
    "wave": 2,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the civic section"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the civic section",
+   "id": "session_016CrbJMSWe1qtqBQrSeeHQf",
+   "url": "https://claude.ai/code/session_016CrbJMSWe1qtqBQrSeeHQf",
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
   },
   {
    "session": "cl-6.startups@PrompTugal.dinis",
@@ -111,8 +138,11 @@
     "PrompTugal/PrompTugal__News__Startups"
    ],
    "wave": 2,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the startups section"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the startups section",
+   "id": "session_016CrbJHzEkmE5jEdT2WpVzC",
+   "url": "https://claude.ai/code/session_016CrbJHzEkmE5jEdT2WpVzC",
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
   },
   {
    "session": "cl-6.library@PrompTugal.dinis",
@@ -122,8 +152,11 @@
     "PrompTugal/PrompTugal__News__Library"
    ],
    "wave": 2,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the library section"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the library section",
+   "id": "session_016CrbJNfPpkijB4Czf4L2DD",
+   "url": "https://claude.ai/code/session_016CrbJNfPpkijB4Czf4L2DD",
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
   },
   {
    "session": "cl-6.signals@PrompTugal.dinis",
@@ -133,8 +166,11 @@
     "PrompTugal/PrompTugal__News__Signals"
    ],
    "wave": 2,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the signals section"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the signals section",
+   "id": "session_016CrbJLzfdz51sDBekg8v8X",
+   "url": "https://claude.ai/code/session_016CrbJLzfdz51sDBekg8v8X",
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
   },
   {
    "session": "cl-6.cyber@PrompTugal.dinis",
@@ -144,8 +180,11 @@
     "PrompTugal/PrompTugal__News__Cyber"
    ],
    "wave": 2,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the cyber section"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the cyber section",
+   "id": "session_016CrbJLwU9iQ41Xv3q2VZwk",
+   "url": "https://claude.ai/code/session_016CrbJLwU9iQ41Xv3q2VZwk",
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
   },
   {
    "session": "cl-6.events@PrompTugal.dinis",
@@ -155,8 +194,11 @@
     "PrompTugal/PrompTugal__News__Events"
    ],
    "wave": 2,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the events section"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the events section",
+   "id": "session_016CrbJNMHQRQmkvWGwFt7BL",
+   "url": "https://claude.ai/code/session_016CrbJNMHQRQmkvWGwFt7BL",
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
   },
   {
    "session": "cl-6.live@PrompTugal.dinis",
@@ -166,8 +208,11 @@
     "PrompTugal/PrompTugal__News__Live"
    ],
    "wave": 2,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the live section"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the live section",
+   "id": "session_016CrbJMc7qc59eSmeqUAW6q",
+   "url": "https://claude.ai/code/session_016CrbJMc7qc59eSmeqUAW6q",
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
   },
   {
    "session": "cl-6.videos@PrompTugal.dinis",
@@ -177,8 +222,11 @@
     "PrompTugal/PrompTugal__News__Videos"
    ],
    "wave": 2,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the videos section"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the videos section",
+   "id": "session_016CrbJMuWrQhMqNFVLoX3dS",
+   "url": "https://claude.ai/code/session_016CrbJMuWrQhMqNFVLoX3dS",
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
   },
   {
    "session": "cl-6.bulletins@PrompTugal.dinis",
@@ -188,8 +236,11 @@
     "PrompTugal/PrompTugal__News__Bulletins"
    ],
    "wave": 2,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the bulletins section"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the bulletins section",
+   "id": "session_016CrbJN84epGHrjZ5CT51bY",
+   "url": "https://claude.ai/code/session_016CrbJN84epGHrjZ5CT51bY",
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
   },
   {
    "session": "cl-6.fringe@PrompTugal.dinis",
@@ -199,8 +250,11 @@
     "PrompTugal/PrompTugal__News__Fringe"
    ],
    "wave": 2,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the fringe section"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the fringe section",
+   "id": "session_016CrbJKaYmvvH9W9jBkyyHE",
+   "url": "https://claude.ai/code/session_016CrbJKaYmvvH9W9jBkyyHE",
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
   },
   {
    "session": "cl-6.swarm@PrompTugal.dinis",
@@ -210,8 +264,11 @@
     "PrompTugal/PrompTugal__News__Swarm"
    ],
    "wave": 2,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "the swarm section"
+   "wake": "not yet: created when the agent reports its setup done",
+   "does": "the swarm section",
+   "id": "session_016CrbJNB2WPgCAvU2KSmRmY",
+   "url": "https://claude.ai/code/session_016CrbJNB2WPgCAvU2KSmRmY",
+   "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session"
   },
   {
    "session": "cl-6.places@PrompTugal.dinis",
@@ -471,5 +528,6 @@
   },
   "assumptions": "80 Sonnet and 2 Opus wakes a day; Sonnet per wake $0.50 to $2.00 (only the high figure is counted), Opus $0.75 to $3.40; first wakes cost more; twice a day is a floor",
   "advice": "start wave 0 alone, re-read the ledger after two days"
- }
+ },
+ "history_rule": "Dinis (26 Nov, in cl-6.maestro's session): every agent moves its entire history into its home: history/ with the original paths, history/PROVENANCE.md, history/git-log.md; the old folders become pointers only after the agent confirms."
 }
