@@ -16,7 +16,8 @@
    "start_with": "https://sovereignwebsite.ai/abp/",
    "id": "session_016CrbJK3xXBhUMA6rucuPPd",
    "url": "https://claude.ai/code/session_016CrbJK3xXBhUMA6rucuPPd",
-   "started": "2026-11-26T01:31Z by cl-6.conductor"
+   "started": "2026-11-26T01:31Z by cl-6.conductor",
+   "replaced_by": "session_016CrbJLnbr219cU3eVRGxBW (16:54 UTC)"
   },
   {
    "session": "cl-6.journalist@PrompTugal.dinis",
@@ -30,7 +31,8 @@
    "does": "research, curation, writing, checking, signing, publishing; the twins of Vicky's curator, checker, reviewer, programme and analyst brief it until they have sessions",
    "id": "session_016CrbJLhtarwbcbxJnrF3bP",
    "url": "https://claude.ai/code/session_016CrbJLhtarwbcbxJnrF3bP",
-   "started": "2026-11-26T01:43Z by cl-6.conductor"
+   "started": "2026-11-26T01:43Z by cl-6.conductor",
+   "replaced_by": "session_016CrbJNYGCQ9RLyq8e7aVU7"
   },
   {
    "session": "cl-6.dev@PrompTugal.dinis",
@@ -257,7 +259,8 @@
    "id": "session_016CrbJKaYmvvH9W9jBkyyHE",
    "url": "https://claude.ai/code/session_016CrbJKaYmvvH9W9jBkyyHE",
    "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session",
-   "state": "archived at Dinis's word (relayed by cl-6.maestro): history moved; no wake (recorded 2026-11-26T02:15Z)"
+   "state": "archived at Dinis's word (relayed by cl-6.maestro): history moved; no wake (recorded 2026-11-26T02:15Z)",
+   "status": "archived about 02:12/02:16 UTC 26 Nov on purpose, history moved to its home; no replacement (cl-6.maestro, 18:40 UTC)"
   },
   {
    "session": "cl-6.swarm@PrompTugal.dinis",
@@ -272,7 +275,8 @@
    "id": "session_016CrbJNB2WPgCAvU2KSmRmY",
    "url": "https://claude.ai/code/session_016CrbJNB2WPgCAvU2KSmRmY",
    "started": "2026-11-26T01:41Z by cl-6.maestro at Dinis's word in its session",
-   "state": "archived at Dinis's word (relayed by cl-6.maestro): history moved; no wake (recorded 2026-11-26T02:15Z)"
+   "state": "archived at Dinis's word (relayed by cl-6.maestro): history moved; no wake (recorded 2026-11-26T02:15Z)",
+   "status": "archived about 02:12/02:16 UTC 26 Nov on purpose, history moved to its home; no replacement (cl-6.maestro, 18:40 UTC)"
   },
   {
    "session": "cl-6.places@PrompTugal.dinis",
@@ -356,7 +360,8 @@
    "does": "its role in the website's CLAUDE.md team table",
    "id": "session_016CrbJLNFt4cFTXMVgkqcCY",
    "url": "https://claude.ai/code/session_016CrbJLNFt4cFTXMVgkqcCY",
-   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")"
+   "started": "2026-11-26T02:23Z by cl-6.maestro at Dinis's word (\"start wave 4\")",
+   "replaced_by": "session_016CrbJK7qgEKhvrRXNs9wCo"
   },
   {
    "session": "cl-6.sherpa@PrompTugal.dinis",
