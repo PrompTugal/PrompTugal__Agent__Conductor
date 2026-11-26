@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T19:04Z",
+  "updated": "2026-11-26T19:35Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -175,6 +175,10 @@
     {
       "at": "2026-11-26T19:04Z",
       "event": "cl-6.reviewer evening wake (034dde78): the Tube strikes article verified at TfL and the RMT, nothing to fix; relayed to cl-6.security. Open with reviewer: the iOS app page list (nobody has sent it), the Humans and AI draft (needs its author's recorded approval)."
+    },
+    {
+      "at": "2026-11-26T19:35Z",
+      "event": "Tube strikes article live at the top of the front page (v0.1.2332, correspondent). Assigned to cl-6.dev, through security: the tagline to Dinis's 16 Nov line 'Portugal's news, town by town' in content/index.md and the ledger; the new /pay-for-what-you-read/ page from the designer's text; a front-page field for the correspondent's link."
     }
   ],
   "waiting_on": [
