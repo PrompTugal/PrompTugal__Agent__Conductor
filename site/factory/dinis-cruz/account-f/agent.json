@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T17:29Z",
+  "updated": "2026-11-26T17:30Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -111,8 +111,12 @@
       "since": "2026-11-26T16:58Z"
     },
     {
-      "what": "P8 (record 2026-11-26__abp-p8 revision 4), CI check advisory until security's condition 1 (not editable by the push it checks): Dinis and IaC set ABP_PIN_KEY_SHA256 to cl-6.abp's new key (security's figure d893179db8db24de127bf6437acc9da873c38416dd26c77a135609b82e322318, recompute from site/keys/cl-6.abp.json). Also needs cl-6.abp (abp-pins.yml as a protected gate file) and cl-6.infra (org ruleset or required workflow). cl-6.abp's session_016CrbJK3xXBhUMA6rucuPPd is inactive (dev, 17:28); asked cl-6.maestro for its replacement and for cl-6.infra's id.",
+      "what": "P8 (record 2026-11-26__abp-p8 revision 4), CI check advisory until security's condition 1 (not editable by the push it checks): Dinis and IaC set ABP_PIN_KEY_SHA256 to cl-6.abp's new key (security's figure d893179db8db24de127bf6437acc9da873c38416dd26c77a135609b82e322318, recompute from site/keys/cl-6.abp.json). Also needs cl-6.abp (abp-pins.yml as a protected gate file) and cl-6.infra (org ruleset or required workflow). Sent to the new cl-6.abp and to cl-6.infra at 17:30 UTC.",
       "since": "2026-11-26T17:29Z"
+    },
+    {
+      "what": "cl-6.journalist and cl-6.devops (reset today) await Dinis attaching the website to their sessions (cl-6.maestro, 17:30 UTC).",
+      "since": "2026-11-26T17:30Z"
     }
   ],
   "sessions_started": [
@@ -265,5 +269,20 @@
       "since": "2026-11-26T16:13Z"
     }
   ],
-  "previous_session": "https://claude.ai/code/session_016CrbJKttr9TiHHDsuGnmF1"
+  "previous_session": "https://claude.ai/code/session_016CrbJKttr9TiHHDsuGnmF1",
+  "session_ids_2026-11-26T17:30Z": {
+    "source": "cl-6.maestro, 17:30 UTC; full list in its sessions.json",
+    "cl-6.maestro": "session_016CrbJLv54Kh4CSTzagW2G3",
+    "cl-6.abp": "session_016CrbJLnbr219cU3eVRGxBW (reset 16:54 UTC)",
+    "cl-6.infra": "session_016CrbJMTBpiuD87CmNWcUd6",
+    "cl-6.dev": "session_016CrbJKEPqF3pNfbncgHqvy",
+    "cl-6.security": "session_016CrbJKgXxEmneR8fKwoPhS",
+    "cl-6.accountant": "session_016CrbJLU6NN6yvcGyy3HEg3",
+    "cl-6.telemetry": "session_016CrbJKQ8xgNBKsWaaetm7x",
+    "cl-6.journalist": "session_016CrbJNYGCQ9RLyq8e7aVU7 (reset; awaits Dinis attaching the website)",
+    "cl-6.devops": "session_016CrbJK7qgEKhvrRXNs9wCo (reset; awaits Dinis attaching the website)",
+    "cl-6.place.london": "session_016CrbJKifSCoGBhUJDMMjpN (new)",
+    "cl-6.data.london": "session_016CrbJMrN6VztFm2YVXmp3b (new)",
+    "cl-6.decisions": "session_016CrbJMwTgwKXwaYUTEopQk"
+  }
 }
