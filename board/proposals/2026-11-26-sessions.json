@@ -455,5 +455,21 @@
    "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
    "does": "twin of analyst@PrompTugal.vicky"
   }
- ]
+ ],
+ "cost": {
+  "by": "cl-6.accountant@dinis, an estimate, not counted (2026-11-26T01:32Z)",
+  "source": "https://github.com/SovereignWebsite/Site__Agent__Accountant/blob/dev/site/factory/dinis-cruz/account-f/estimates/2026-11-26-promptugal-sessions.md",
+  "per_day_usd": {
+   "low": 41.5,
+   "mid": 83.6,
+   "high": 166.8
+  },
+  "per_week_usd": {
+   "low": 290.5,
+   "mid": 585.2,
+   "high": 1167.6
+  },
+  "assumptions": "80 Sonnet and 2 Opus wakes a day; Sonnet per wake $0.50 to $2.00 (only the high figure is counted), Opus $0.75 to $3.40; first wakes cost more; twice a day is a floor",
+  "advice": "start wave 0 alone, re-read the ledger after two days"
+ }
 }
