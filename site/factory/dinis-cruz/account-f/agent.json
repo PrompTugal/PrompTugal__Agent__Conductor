@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T20:13Z",
+  "updated": "2026-11-26T20:15Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -199,6 +199,10 @@
     {
       "at": "2026-11-26T20:11Z",
       "event": "cl-6.correspondent wake 2: v0.1.2341 live (security yes); four signed 26 Nov articles on the AI and Europe beats; lead unchanged; Tube article in top. Told it the explainer field is ready; the page and title wait on Dinis."
+    },
+    {
+      "at": "2026-11-26T20:15Z",
+      "event": "cl-6.synthetic wake 2 (v0.1.2341): F58 answered (/follow/ is RSS only); F50 (footer 'Edited by' three named editors while stories say an agent made them) sent to cl-6.decisions@dinis as a wording decision; N1 (phone chip shows a bare £ figure) with dev, designer told."
     }
   ],
   "waiting_on": [
