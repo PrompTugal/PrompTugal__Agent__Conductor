@@ -95,6 +95,10 @@
     {
       "at": "2026-11-26T17:28Z",
       "event": "cl-6.dev: v0.1.2330 live (checked live), cleared by cl-6.security: /newsroom/activity/ (all 30 feeds red: last read 21 Nov); free /weather/ (IPMA named, feeds hidden past 48 h, so no values today; IPMA terms confirmed by cl-6.rights 17:15); APL Tejo Live and AEMTG Praia da Rocha camera links once their feed is fresh; markdown fixes W1 and S12. Next for dev: S13 (operator bootstrap signed by Dinis's anchor); P8 CI check drafted, advisory, security's three conditions before enforcing. Still open: P11 c held for Dinis's root (place sync waits), London repo, designer's zero-moment line and explainer, accountant's price check."
+    },
+    {
+      "at": "2026-11-26T17:30Z",
+      "event": "cl-6.abp (new session): abp-pins.yml is a protected path in abp/policies.json, owner none (after 1143d39); ABP_PIN_KEY_SHA256 recomputed by abp, matches security's d893179d...e322318. P8 rev 4 waits on Dinis's 'P8: yes' in cl-6.abp's session; asked cl-6.security whether both security passes are in before putting it to him."
     }
   ],
   "waiting_on": [
