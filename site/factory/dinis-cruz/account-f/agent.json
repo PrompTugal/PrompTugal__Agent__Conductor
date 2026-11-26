@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T17:31Z",
+  "updated": "2026-11-26T17:32Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -111,8 +111,8 @@
       "since": "2026-11-26T16:51Z"
     },
     {
-      "what": "FOR DINIS, in cl-6.abp's session (session_016CrbJLnbr219cU3eVRGxBW): \"P8: yes\". Both security passes in at kit v2.2b b87acff (cl-6.security@dinis 08acef7, cl-6.security@PrompTugal.dinis, 16:58 UTC); record 2026-11-26__abp-p8 revision 4 (49a8960). The yes does not yet allow an install: install waits on ABP_PIN_KEY_SHA256 = d893179db8db24de127bf6437acc9da873c38416dd26c77a135609b82e322318 (Dinis in the session environment; IaC for the CI org variable); kit unchanged at b87acff. Then CI becomes a required status on dev only with security's three conditions (workflow not editable by the push it checks; empty last-sha fails under enforce; floor updater designed and reviewed), and each install is by pull, pre-reviewed by security against b87acff's hashes. \"yes to P9\": held until a security agent has reviewed P9 (asked cl-6.abp for its text, 17:33). Still standing (S13): when Dinis adds his key to the website's operator list, he states its fingerprint in his own words to the conductor or cl-6.maestro.",
-      "since": "2026-11-26T17:31Z"
+      "what": "FOR DINIS, in cl-6.abp's session (session_016CrbJLnbr219cU3eVRGxBW): \"P8: yes\". Both security passes in at kit v2.2b b87acff (cl-6.security@dinis 08acef7, cl-6.security@PrompTugal.dinis, 16:58 UTC); record 2026-11-26__abp-p8 revision 4 (49a8960). The yes does not yet allow an install: install waits on ABP_PIN_KEY_SHA256 = d893179db8db24de127bf6437acc9da873c38416dd26c77a135609b82e322318 (Dinis in the session environment; IaC for the CI org variable); kit unchanged at b87acff. Then CI becomes a required status on dev only with security's three conditions (workflow not editable by the push it checks; empty last-sha fails under enforce; floor updater designed and reviewed), and each install is by pull, pre-reviewed by security against b87acff's hashes. Also \"yes to P9\" in the same session: record 2026-11-26__abp-p9 revision 2 (1cefc01) narrows it to each agent's own team/keys.json entry plus the files IaC #25's policy/key-bootstrap.json lists as pinnable, on a key/<agent> branch; passed twice by cl-6.security@dinis (eb92be5, c464f04); cl-6.security@PrompTugal.dinis approves each key PR's exact head. Dinis already said 'yes to P9' in cl-6.decisions' session at 16:54:55 UTC; cl-6.abp needs it in its own session (trust in keys). Setting ABP_PIN_KEY_SHA256 is a key-trust step: Dinis's, or cl-6.infra's through IaC with his word. Still standing (S13): when Dinis adds his key to the website's operator list, he states its fingerprint in his own words to the conductor or cl-6.maestro.",
+      "since": "2026-11-26T17:32Z"
     },
     {
       "what": "P8 (record 2026-11-26__abp-p8 revision 4), CI check advisory until security's condition 1 (not editable by the push it checks): Dinis and IaC set ABP_PIN_KEY_SHA256 to cl-6.abp's new key (security's figure d893179db8db24de127bf6437acc9da873c38416dd26c77a135609b82e322318, recompute from site/keys/cl-6.abp.json). Also needs cl-6.abp (abp-pins.yml as a protected gate file) and cl-6.infra (org ruleset or required workflow). Sent to the new cl-6.abp and to cl-6.infra at 17:30 UTC.",
