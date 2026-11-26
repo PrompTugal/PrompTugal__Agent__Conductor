@@ -14,7 +14,7 @@
  "model": "opus",
  "state": "thinking only: plans, routes, checks, starts sessions and wakes at Dinis's word",
  "focus": "waves 1 and 2 setting up; push access to each work repository waits on Dinis in each session; wakes as each setup finishes",
- "updated": "2026-11-26T06:24Z",
+ "updated": "2026-11-26T06:26Z",
  "timeline": [
   {
    "at": "2026-11-25T22:52Z",
@@ -75,6 +75,10 @@
   {
    "at": "2026-11-26T06:12Z",
    "event": "cl-6.abp keeps R4 (only cl-6.maestro starts sessions and wakes) until Dinis says P4 in its session; the conductor creates no more wakes and proposes them to cl-6.maestro. 28 wakes were set before."
+  },
+  {
+   "at": "2026-11-26T06:26Z",
+   "event": "Dinis's home page feedback live in v0.1.2296 (cl-6.dev, reviewed by cl-6.security and the designer): dates on every card, map pins by recency, Algarve grid capped with 'All 17 towns', header wraps; the lead is front-page.json's"
   }
  ],
  "waiting_on": [
@@ -89,7 +93,7 @@
    "since": "2026-11-26T06:23Z"
   },
   {
-   "what": "part of the one exception (cl-6.security, 2026-11-26T06:24Z): in each section agent's session (library, live, videos, cyber, bulletins, signals, travel; events managed without), allow editing that repository's own .github/workflows/pages.yml for the anchor override only; the App and security's pins hold it to the reviewed bytes",
+   "what": "part of the one exception (cl-6.security, 2026-11-26T06:24Z): in each section agent's session (library, live, videos, cyber, bulletins, signals, travel; events managed without), allow editing that repository's own .github/workflows/pages.yml for the anchor override only; the App and security's pins hold it to the reviewed bytes; also cl-6.dev's session (session_016CrbJKEPqF3pNfbncgHqvy): allow editing the website's .github/workflows/deploy-pages.yml for security's option 1 (validate and release in parallel, about 6 min a deploy instead of 11; security said yes) (2026-11-26T06:26Z)",
    "who": "Dinis",
    "since": "2026-11-26T06:24Z"
   },
