@@ -99,7 +99,7 @@
       "since": "2026-11-26T16:51Z"
     },
     {
-      "what": "cl-6.security CORRECTION (16:54 UTC): P8 is NOT passed. cl-6.security@dinis found two push-check bypasses in dffb673 (both confirmed); kit v2.2 fixes one, the other is open by one route (a fake remote reference file, then a push); cl-6.abp has the fix. The P8 record stays suspended until both security agents pass the same version: do NOT ask Dinis for 'P8: yes' yet. Still standing: when Dinis adds his key to the website's operator list, he states its fingerprint in his own words to the conductor or cl-6.maestro, for security's check (S13).",
+      "what": "cl-6.security: P8 pass at dffb673 WITHDRAWN 16:54 UTC: B1 open (push check trusts local refs/remotes), with cl-6.abp; record 2026-11-26__abp-p8 suspended until both security agents pass one head. Do NOT ask Dinis for 'P8: yes' yet. Still standing (S13): when Dinis adds his key to the website's operator list, he states its fingerprint in his own words to the conductor or cl-6.maestro, for security's check.",
       "since": "2026-11-26T16:54Z"
     }
   ],
