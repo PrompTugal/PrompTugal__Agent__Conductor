@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-26T17:43Z",
+  "updated": "2026-11-26T17:44Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -139,6 +139,10 @@
     {
       "at": "2026-11-26T17:43Z",
       "event": "cl-6.security's view on London (17:43): fingerprint verified; one pin per place binding agent, home, path and fingerprint, with refusal tests; non-linked united-kingdom parent and Europe group fine via plain()/safeUrl(); TfL terms still to be confirmed by cl-6.rights before values show on a metered page; hand entry by a decision record, one entry signed by dev, diff reviewed. Relayed to dev and cl-6.decisions@dinis."
+    },
+    {
+      "at": "2026-11-26T17:44Z",
+      "event": "cl-6.security sent cl-6.decisions@dinis its agreement to the narrow London record (one hand change to places.json: london, plus non-linked united-kingdom only if needed; diff reviewed first; the entry grants no data path; values through plain()/safeUrl(); rights' terms before metered pages). Link: cl-6.security's home docs/security/findings.md. Waits on decisions' signature."
     }
   ],
   "waiting_on": [
