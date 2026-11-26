@@ -10,3 +10,4 @@
 - 26 Nov by 01:31: "yes, start cl-6.abp now" (started by the conductor).
 - 26 Nov, by 2026-11-26T02:12Z (date -u when written): "yes, go ahead with dev's deploy-speed proposal" (relayed to cl-6.dev; security reviews before it ships).
 - 26 Nov, by 2026-11-26T02:34Z: "I cannot be in-line in the normal publishing workflow, only for escalations and massive exceptions." Every route the agents design must run without Dinis's hand; what needs a yes goes to the decision panel (cl-6.decisions with security, strategy, accountant, maestro), and to Dinis only as an escalation.
+- 26 Nov, by 2026-11-26T02:36Z: "by the time we finish this whole first round, everybody's area should be updated ... not wait for the next wake" (sent to every agent: one full pass now, report one line with the link).

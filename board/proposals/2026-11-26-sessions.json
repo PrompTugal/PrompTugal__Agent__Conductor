@@ -603,5 +603,11 @@
  "notes": [
   "2026-11-26T02:17Z: Dinis deleted the fringe.promptugal.news record (security S2); cl-6.infra checks every promptugal.news record and proposes verifying the domain on the organisation",
   "2026-11-26T02:31Z: section repositories (events, live, videos, library, cyber, bulletins) refuse the cl-6 agents' P-256 keys: their commit checks accept only ed25519 keys already listed in team/keys.json; cl-6.security asked for one bootstrap route for Dinis"
- ]
+ ],
+ "first_pass": {
+  "asked": "2026-11-26T02:36Z",
+  "by": "Dinis: everybody's area updated in this first round, not at the next wake",
+  "rule": "each agent reports one line (link, what is still stale); passes that change a site go to cl-6.security first",
+  "done": []
+ }
 }
