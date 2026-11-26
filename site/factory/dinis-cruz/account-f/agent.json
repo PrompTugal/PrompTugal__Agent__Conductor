@@ -111,7 +111,7 @@
       "since": "2026-11-26T16:51Z"
     },
     {
-      "what": "P8 (record 2026-11-26__abp-p8 rev 4): cl-6.security@PrompTugal.dinis passed kit v2.2b at b87acff (16:58); NO pass yet from cl-6.security@dinis (asked cl-6.decisions@dinis, 17:31). Do NOT ask Dinis for 'P8: yes' until both pass one head. The kit still pins the archived cl-6.abp key (pinlib.mjs eb5b09f0...); cl-6.abp told to move it to d893179d...e322318, which then needs a new pass. Still standing (S13): when Dinis adds his key to the website's operator list, he states its fingerprint in his own words to the conductor or cl-6.maestro.",
+      "what": "FOR DINIS, in cl-6.abp's session (session_016CrbJLnbr219cU3eVRGxBW), two lines: \"yes to P9\" and \"P8: yes\". Both security passes are in at kit v2.2b b87acff (cl-6.security@dinis 08acef7 and cl-6.security@PrompTugal.dinis, both 16:58 UTC); record 2026-11-26__abp-p8 reinstated at revision 4 (49a8960), per cl-6.decisions@dinis 17:30. cl-6.abp treats both as one-way doors. Before any install: the kit's pinlib.mjs must move from the archived key eb5b09f0... to d893179d...e322318 (asked of cl-6.abp; a new head for security), and Dinis/IaC set ABP_PIN_KEY_SHA256 to the same. Still standing (S13): when Dinis adds his key to the website's operator list, he states its fingerprint in his own words to the conductor or cl-6.maestro.",
       "since": "2026-11-26T17:31Z"
     },
     {
