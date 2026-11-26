@@ -213,6 +213,14 @@
     {
       "what": "Optional: ask IPMA for permission to show its warnings on promptugal.news (a paid site), or keep weather link-only; and MEO's embed consent for camera images.",
       "since": "2026-11-26T16:12Z"
+    },
+    {
+      "what": "Rights question: on the billing site, is a bare credited link to an operator's own public camera page (no content copied) acceptable? If yes, APL (2) and AEMTG (1) cameras can show; MEO (terms unquoted) and Skyline (bars commercial use) stay out. Conductor recommends yes (a link is not reuse of their data).",
+      "since": "2026-11-26T16:13Z"
+    },
+    {
+      "what": "Security S9 (medium): 109 active keys.json entries with no key, mostly ended sessions; dev prepares one superseding commit for Dinis to sign once his key is listed.",
+      "since": "2026-11-26T16:13Z"
     }
   ],
   "sessions_started": [
