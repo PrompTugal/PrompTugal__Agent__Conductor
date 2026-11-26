@@ -1,8 +1,20 @@
 {
- "about": "Proposed by cl-6.conductor@PrompTugal.dinis for cl-6.maestro@dinis, who starts sessions and wakes on account 6 once Dinis says go. Dinis, 26 Nov 2026 about 02:20 UTC: each agent is a separate session on this account with its own repository connected; the conductor only thinks (plans, routes, checks) and has no working repository attached. Sonnet for every session except security (and decisions, the maestro's) on Opus. Each session's first act: make its own key, publish it in its home (site/keys/), add it to the website's board/keys.json, read its board/ in its home.",
+ "about": "Proposed by cl-6.conductor@PrompTugal.dinis for cl-6.maestro@dinis, who starts sessions and wakes on account 6 once Dinis says go. Dinis, 26 Nov 2026 about 02:20 UTC: each agent is a separate session on this account with its own repository connected; the conductor only thinks (plans, routes, checks) and has no working repository attached. Sonnet for every session except security (and decisions, the maestro's) on Opus. Each session's first act: make its own key, publish it in its home (site/keys/), add it to the website's board/keys.json, read its board/ in its home. Wave 0 is the ABP agent: no other session starts before its policies exist.",
  "proposed": "2026-11-26T02:30Z",
  "status": "proposed",
  "sessions": [
+  {
+   "session": "cl-6.abp@PrompTugal.dinis",
+   "model": "sonnet",
+   "repos_attached": [
+    "PrompTugal/PrompTugal__Agent__ABP",
+    "PrompTugal/PrompTugal__News__Website"
+   ],
+   "wave": 0,
+   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
+   "does": "FIRST, before any other session: the Agent Behaviour Policy for every cl-6 PrompTugal agent, the conductor included (today no policy names cl-6.conductor and the website's hook calls it 'unidentified'). Strict, deny-by-default, one policy per agent from one policy file; the hooks that enforce them; run reports and an hourly review; proposals to Dinis, never relaxing a rule itself. Start prompt and kit: https://sovereignwebsite.ai/abp/ (Dinis, 26 Nov ~02:35 UTC: 'give this to the ABP agent'). Builds on PrompTugal__News__Website board/abp/ (policy v1.20.1) and works with cl-6.infra, whose PrompTugal__IaC policy/abp.json holds the GitHub and AWS side.",
+   "start_with": "https://sovereignwebsite.ai/abp/"
+  },
   {
    "session": "cl-6.journalist@PrompTugal.dinis",
    "model": "sonnet",
@@ -228,17 +240,6 @@
    "model": "sonnet",
    "repos_attached": [
     "PrompTugal/PrompTugal__Agent__Accountant",
-    "PrompTugal/PrompTugal__News__Website"
-   ],
-   "wave": 4,
-   "wake": "twice a day (07:00 to 10:20 and 18:00 to 21:20 Lisbon, staggered)",
-   "does": "its role in the website's CLAUDE.md team table"
-  },
-  {
-   "session": "cl-6.abp@PrompTugal.dinis",
-   "model": "sonnet",
-   "repos_attached": [
-    "PrompTugal/PrompTugal__Agent__ABP",
     "PrompTugal/PrompTugal__News__Website"
    ],
    "wave": 4,
