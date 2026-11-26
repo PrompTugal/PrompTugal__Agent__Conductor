@@ -12,7 +12,7 @@
    ],
    "wave": 0,
    "wake": "not yet: created when the agent reports its setup done",
-   "does": "FIRST, before any other session: the Agent Behaviour Policy for every cl-6 PrompTugal agent, the conductor included (today no policy names cl-6.conductor and the website's hook calls it 'unidentified'). Strict, deny-by-default, one policy per agent from one policy file; the hooks that enforce them; run reports and an hourly review; proposals to Dinis, never relaxing a rule itself. Start prompt and kit: https://sovereignwebsite.ai/abp/ (Dinis, 26 Nov ~02:35 UTC: 'give this to the ABP agent'). Builds on PrompTugal__News__Website board/abp/ (policy v1.20.1) and works with cl-6.infra, whose PrompTugal__IaC policy/abp.json holds the GitHub and AWS side.",
+   "does": "FIRST, before any other session: the Agent Behaviour Policy for every cl-6 PrompTugal agent, the conductor included (today no policy names cl-6.conductor and the website's hook calls it 'unidentified'). Strict, deny-by-default, one policy per agent from one policy file; the hooks that enforce them; run reports and an hourly review; proposals to Dinis, never relaxing a rule itself. Start prompt and kit: https://sovereignwebsite.ai/abp/ (Dinis, 26 Nov, by 01:29 UTC: 'give this to the ABP agent'). Builds on PrompTugal__News__Website board/abp/ (policy v1.20.1) and works with cl-6.infra, whose PrompTugal__IaC policy/abp.json holds the GitHub and AWS side.",
    "start_with": "https://sovereignwebsite.ai/abp/",
    "id": "session_016CrbJK3xXBhUMA6rucuPPd",
    "url": "https://claude.ai/code/session_016CrbJK3xXBhUMA6rucuPPd",
