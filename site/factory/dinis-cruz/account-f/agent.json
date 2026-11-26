@@ -111,7 +111,7 @@
       "since": "2026-11-26T16:51Z"
     },
     {
-      "what": "FOR DINIS, in cl-6.abp's session (session_016CrbJLnbr219cU3eVRGxBW), two lines: \"yes to P9\" and \"P8: yes\". Both security passes are in at kit v2.2b b87acff (cl-6.security@dinis 08acef7 and cl-6.security@PrompTugal.dinis, both 16:58 UTC); record 2026-11-26__abp-p8 reinstated at revision 4 (49a8960), per cl-6.decisions@dinis 17:30. cl-6.abp treats both as one-way doors. Before any install: the kit's pinlib.mjs must move from the archived key eb5b09f0... to d893179d...e322318 (asked of cl-6.abp; a new head for security), and Dinis/IaC set ABP_PIN_KEY_SHA256 to the same. Still standing (S13): when Dinis adds his key to the website's operator list, he states its fingerprint in his own words to the conductor or cl-6.maestro.",
+      "what": "FOR DINIS, in cl-6.abp's session (session_016CrbJLnbr219cU3eVRGxBW): \"P8: yes\". Both security passes in at kit v2.2b b87acff (cl-6.security@dinis 08acef7, cl-6.security@PrompTugal.dinis, 16:58 UTC); record 2026-11-26__abp-p8 revision 4 (49a8960). The yes does not yet allow an install: install waits on ABP_PIN_KEY_SHA256 = d893179db8db24de127bf6437acc9da873c38416dd26c77a135609b82e322318 (Dinis in the session environment; IaC for the CI org variable); kit unchanged at b87acff. Then CI becomes a required status on dev only with security's three conditions (workflow not editable by the push it checks; empty last-sha fails under enforce; floor updater designed and reviewed), and each install is by pull, pre-reviewed by security against b87acff's hashes. \"yes to P9\": held until a security agent has reviewed P9 (asked cl-6.abp for its text, 17:33). Still standing (S13): when Dinis adds his key to the website's operator list, he states its fingerprint in his own words to the conductor or cl-6.maestro.",
       "since": "2026-11-26T17:31Z"
     },
     {
@@ -123,7 +123,7 @@
       "since": "2026-11-26T17:30Z"
     },
     {
-      "what": "Dinis's choice for making abp-pins.yml uneditable by the push it checks (cl-6.infra, 17:30): (a) an organisation-level required workflow from a repository the agents do not write (needs the App's organisation Administration permission, a new privilege; plan support not verified), or (b) a ruleset on PrompTugal__Agent__Dev requiring code-owner review with Dinis in CODEOWNERS (every change to Dev's dev then goes through a PR; cl-6.dev's view needed). Neither is a one-way door; removal is by hand. Infra drafts the chosen one as a work/* PR in IaC.",
+      "what": "Dinis's choice for making abp-pins.yml uneditable by the push it checks (cl-6.infra, 17:30): (a) an organisation-level required workflow from a repository the agents do not write (needs the App's organisation Administration permission, a new privilege; plan support not verified), or (b) a ruleset on PrompTugal__Agent__Dev requiring code-owner review with Dinis in CODEOWNERS (every change to Dev's dev then goes through a PR; cl-6.dev's view needed). Neither is a one-way door; removal is by hand. Infra drafts the chosen one as a work/* PR in IaC. cl-6.decisions@dinis is asking cl-6.security@dinis for a view on (a) against (b) and will put both to Dinis with it.",
       "since": "2026-11-26T17:31Z"
     }
   ],
