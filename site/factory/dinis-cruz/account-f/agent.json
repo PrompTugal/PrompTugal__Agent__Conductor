@@ -239,8 +239,8 @@
       "since": "2026-11-26T18:39Z"
     },
     {
-      "what": "Content on the website has no live owner (cl-6.journalist waits on Dinis attaching the website). The tagline fix ('PrompTugal.news: Portugal's news, town by town') and the new /pay-for-what-you-read/ page wait on a one-off grant for cl-6.dev: Dinis's word in cl-6.abp's session, or a cl-6.decisions record quoting his words (asked 19:57). Who owns content/** long term is Dinis's.",
-      "since": "2026-11-26T19:55Z"
+      "what": "Content on the website has no live owner (cl-6.journalist waits on Dinis attaching the website). The tagline fix ('PrompTugal.news: Portugal's news, town by town') and the new /pay-for-what-you-read/ page wait on a one-off grant for cl-6.dev: Dinis's word in cl-6.abp's session, or a cl-6.decisions record quoting his words (asked 19:57). Who owns content/** long term is Dinis's. cl-6.decisions@dinis (19:56) is putting one line for each write to Dinis in its session; it signs a one-off record if he says them. Long-term content owner and attaching the website (push) to cl-6.journalist and cl-6.devops are his.",
+      "since": "2026-11-26T19:56Z"
     }
   ],
   "sessions_started": [
