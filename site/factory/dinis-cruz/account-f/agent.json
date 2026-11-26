@@ -143,6 +143,10 @@
     {
       "at": "2026-11-26T17:44Z",
       "event": "cl-6.security sent cl-6.decisions@dinis its agreement to the narrow London record (one hand change to places.json: london, plus non-linked united-kingdom only if needed; diff reviewed first; the entry grants no data path; values through plain()/safeUrl(); rights' terms before metered pages). Link: cl-6.security's home docs/security/findings.md. Waits on decisions' signature."
+    },
+    {
+      "at": "2026-11-26T17:44Z",
+      "event": "London registry entry signed by cl-6.decisions@dinis: record 2026-11-26__abp-london-registry (c49b4e6), with security's four conditions; sent to cl-6.abp and cl-6.dev. London's place-signers.json pin is a separate key-trust change, security first, not granted by it."
     }
   ],
   "waiting_on": [
