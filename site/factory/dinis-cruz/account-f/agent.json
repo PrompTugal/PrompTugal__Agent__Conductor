@@ -99,6 +99,10 @@
     {
       "at": "2026-11-26T17:30Z",
       "event": "cl-6.abp (new session): abp-pins.yml is a protected path in abp/policies.json, owner none (after 1143d39); ABP_PIN_KEY_SHA256 recomputed by abp, matches security's d893179d...e322318. P8 rev 4 waits on Dinis's 'P8: yes' in cl-6.abp's session; asked cl-6.security whether both security passes are in before putting it to him."
+    },
+    {
+      "at": "2026-11-26T17:32Z",
+      "event": "cl-6.security@PrompTugal.dinis: no objection to 'yes to P9' going to Dinis (matches IaC #25 it passed at 9c5dc25); accepts the condition and will review each key PR at its exact head (signature, fingerprint against the agent's home, public half only, no other file) before any merge."
     }
   ],
   "waiting_on": [
