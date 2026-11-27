@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-27T02:50Z",
+  "updated": "2026-11-27T10:18Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -243,6 +243,10 @@
     {
       "at": "2026-11-27T02:50Z",
       "event": "Dev-gate: all nine covered sections (Library, Live, Videos, Cyber, Bulletins, Signals, Events, Travel, Data) not ready. Hold via IaC #34; design IaC #35 (App fast-forwards dev; agents push work/<agent> only, no force; merge if dev moved; R1 closed cae7617). P19 (abp) 'push work/<agent>, no force' awaits Dinis. Final recipe sent to all nine with security's ruling; Library check-signatures must accept signed merges; Travel lacks check-signatures (S18). Open for security: key-bootstrap merge_method rebase re-signs commits. Weather, Civic, Startups not covered."
+    },
+    {
+      "at": "2026-11-27T10:18Z",
+      "event": "Hand-over state written to restart.md. Strikes page ready, waiting only on Dinis attaching the repository (window to 11:59 UTC). IaC #34-#37 security-passed, for Dinis's merge; P19 waits on him. Eight sections pushed or preparing key branches; release.sh passed for eight. Telemetry 10:14: session $137.48, $6.47/h since 21:17, context 739k of 1M."
     }
   ],
   "waiting_on": [
@@ -469,6 +473,22 @@
     "designer": "session_016CrbJKnk1brEbFLeWGxmxT",
     "customers": "session_016CrbJKeq1CbrSckUAYEf2f",
     "ontologist": "session_016CrbJKcMRN3j2H1qSP6eGy",
-    "correspondent": "session_016CrbJKBK3KAiWXzESjt3zH"
+    "correspondent": "session_016CrbJKBK3KAiWXzESjt3zH",
+    "weather": "session_016CrbJMaWr7p8W8MaDmhsYG",
+    "civic": "session_016CrbJMSWe1qtqBQrSeeHQf",
+    "startups": "session_016CrbJHzEkmE5jEdT2WpVzC",
+    "travel": "session_016CrbJMxEaAKd9efCfrsom6",
+    "events": "session_016CrbJNMHQRQmkvWGwFt7BL",
+    "signals": "session_016CrbJLzfdz51sDBekg8v8X",
+    "library": "session_016CrbJNfPpkijB4Czf4L2DD",
+    "videos": "session_016CrbJMuWrQhMqNFVLoX3dS",
+    "live": "session_016CrbJMc7qc59eSmeqUAW6q",
+    "cyber": "session_016CrbJLwU9iQ41Xv3q2VZwk",
+    "bulletins": "session_016CrbJN84epGHrjZ5CT51bY",
+    "social": "session_016CrbJMyN2aLFYQ5HJR3HqP",
+    "rights": "session_016CrbJJ4rKxNqiEKKhAaWAT",
+    "synthetic": "session_016CrbJMS4781bAVGCP7qfap",
+    "sherpa": "session_016CrbJMWWVdEEuaqxoSn7QC",
+    "researcher": "session_016CrbJMo1RxSSek8dG1KAgr"
   }
 }
