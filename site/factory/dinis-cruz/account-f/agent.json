@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-27T00:54Z",
+  "updated": "2026-11-27T01:06Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -231,6 +231,10 @@
     {
       "at": "2026-11-27T00:54Z",
       "event": "News__Data #1 merged by Dinis (8c861c6, 00:52:57Z); security's approval of the head existed since 26 Nov 17:55 (da0298a); merged tree equals approved head; post-review pass. Competitive analysis draft ready: customers part C bb63769, researcher parts A and B; to Dinis via decisions and in session."
+    },
+    {
+      "at": "2026-11-27T01:06Z",
+      "event": "Batch 00:55-01:06Z. SIG_BOOTSTRAP_ANCHOR 8c861c6 confirmed by security; to be cleared after first passing dev verify run (security and infra agree); with Dinis via decisions. Dinis direction 2026-11-27__human-provenance-admin-crm (decisions 1b0b1ac): design doc by designer, threat model by security (b8f397f, /admin/ public shell confirmed with four conditions); dev section 10 pending. Home page sketches v2 (designer f905c5a) after customers' review; ontologist roll-up built (Portugal 22 own, 299 rolled up), awaiting security; journalist and correspondent to tag new articles; key name builds_on vs feeds to be settled by ontologist and dev. Correspondent's four dated local leads (5925199) with journalist; journalist's website push still blocked (403) until Dinis attaches the website."
     }
   ],
   "waiting_on": [
@@ -453,6 +457,10 @@
     "cl-6.data.london": "session_016CrbJMrN6VztFm2YVXmp3b (new)",
     "cl-6.decisions": "session_016CrbJMwTgwKXwaYUTEopQk",
     "cl-6.places": "session_016CrbJJcoCJnQM6GGY1xC5K (from board/proposals/2026-11-26-sessions.json)",
-    "cl-6.data": "session_016CrbJJKUtCUXi5dhrb3Ahs (delivered 17:41)"
+    "cl-6.data": "session_016CrbJJKUtCUXi5dhrb3Ahs (delivered 17:41)",
+    "designer": "session_016CrbJKnk1brEbFLeWGxmxT",
+    "customers": "session_016CrbJKeq1CbrSckUAYEf2f",
+    "ontologist": "session_016CrbJKcMRN3j2H1qSP6eGy",
+    "correspondent": "session_016CrbJKBK3KAiWXzESjt3zH"
   }
 }
