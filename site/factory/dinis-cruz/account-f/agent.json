@@ -251,6 +251,10 @@
     {
       "at": "2026-11-27T18:35Z",
       "what": "Data 18:03 release stopped on 44 regenerated vaults/ files; decisions (91f1f14) ruled an interim (stash vaults/, release data/ only, release.sh unchanged); data released v0.1.159 on 526dd0b at 18:16 UTC, checked live; vaults/*/latest/** grant first on Dinis's questions. Weather refreshed (07c14dc). Strikes: abp dropped add_repo (1b338c0); maestro has the strikes publishing session prepared and needs Dinis's 'yes, start the strikes session' in maestro's session; decisions told. Researcher found Open Mic Pitch Night, Faro, 17 Dec (8bc6178)."
+    },
+    {
+      "at": "2026-11-27T21:20Z",
+      "what": "Evening: camera links live v0.1.2403 (APL x2 Lisboa, AEMTG Portimao; rights register/camera-links.md; MEO/Skyline held for Dinis). Signed line plain English v0.1.2404. Footer held for Dinis's word (security). Tagline needs Dinis's one-off for cl-6.dev on content/index.md (abp). Journalist website attach top of Dinis's list: no new article since 26 Nov. Vicky N2/N3 and shared unpublished SSH key (S8) to Dinis: cross-account routing stalled. Strikes session awaits Dinis's word in maestro's session. places-wake needs Dinis."
     }
   ],
   "waiting_on": [
