@@ -14,7 +14,7 @@
   "model": "opus",
   "state": "thinking only: plans, routes, checks; sessions and wakes are cl-6.maestro's (R4)",
   "focus": "onboarded from the hand-over (cc63eef, d405dc3); Dinis's list triaged by cl-6.decisions",
-  "updated": "2026-11-27T01:06Z",
+  "updated": "2026-11-27T02:06Z",
   "timeline": [
     {
       "at": "2026-11-25T22:52Z",
@@ -235,6 +235,10 @@
     {
       "at": "2026-11-27T01:06Z",
       "event": "Batch 00:55-01:06Z. SIG_BOOTSTRAP_ANCHOR 8c861c6 confirmed by security; to be cleared after first passing dev verify run (security and infra agree); with Dinis via decisions. Dinis direction 2026-11-27__human-provenance-admin-crm (decisions 1b0b1ac): design doc by designer, threat model by security (b8f397f, /admin/ public shell confirmed with four conditions); dev section 10 pending. Home page sketches v2 (designer f905c5a) after customers' review; ontologist roll-up built (Portugal 22 own, 299 rolled up), awaiting security; journalist and correspondent to tag new articles; key name builds_on vs feeds to be settled by ontologist and dev. Correspondent's four dated local leads (5925199) with journalist; journalist's website push still blocked (403) until Dinis attaches the website."
+    },
+    {
+      "at": "2026-11-27T02:06Z",
+      "event": "Batch 01:07Z-02:06Z. News__Data verify passed after Dinis set anchor (#195); data v0.1.156 fresh, Dinis to clear variable. Language menu off by Dinis's word (decisions cb05251), live v0.1.2363 with absolute dates and civic key. S17 (/login/ key stored in IndexedDB) filed by security; dev's fix next (memory-only key, passphrase backup, CSP, sign on click); revoking 2 old keys is Dinis's. Human-provenance design complete (designer a3b7df2, dev 3e9ef00, security 1c65fd1: sound with seven changes); feedback-lane rate limit options from infra with decisions. Strikes site: Dinis asked to publish what we know; decisions record 2026-11-27__strikes-site-publish (2ab463e); place.london page ready (605ce68), journalist approved restatement; waits on Dinis attaching the strikes repo to place.london. Ontologist: story-counts live v0.1.2359, news-flow-by-date merged; key builds_on. Civic v0.1.94; civic grant widening with decisions. New homes for strikes and social created by infra."
     }
   ],
   "waiting_on": [
