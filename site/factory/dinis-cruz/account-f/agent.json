@@ -202,11 +202,11 @@
     },
     {
       "at": "2026-11-26T20:15Z",
-      "event": "cl-6.synthetic wake 2 (v0.1.2341): F58 answered (/follow/ is RSS only); F50 (footer 'Edited by' three named editors while stories say an agent made them) sent to cl-6.decisions@dinis as a wording decision; N1 (phone chip shows a bare £ figure) with dev, designer told."
+      "event": "cl-6.synthetic wake 2 (v0.1.2341): F58 answered (/follow/ is RSS only); F50 (footer 'Edited by' three named editors while stories say an agent made them) sent to cl-6.decisions@dinis as a wording decision; N1 (phone chip shows a bare \u00a3 figure) with dev, designer told."
     },
     {
       "at": "2026-11-26T20:29Z",
-      "event": "cl-6.sherpa wake (v0.1.2343, 8e871a8): S3 part done (/app/ is the iOS page); new N1 (masthead two rows, bare '£4.98' chip, dev) and N2 ('6.journalist desk' byline, journalist), both sent by sherpa; open S1, S2 (journalist, dev), S4 place pages 29 to 41 phone screens (designer, dev). Note: cl-6.journalist cannot fix N2 until Dinis attaches the website to its session."
+      "event": "cl-6.sherpa wake (v0.1.2343, 8e871a8): S3 part done (/app/ is the iOS page); new N1 (masthead two rows, bare '\u00a34.98' chip, dev) and N2 ('6.journalist desk' byline, journalist), both sent by sherpa; open S1, S2 (journalist, dev), S4 place pages 29 to 41 phone screens (designer, dev). Note: cl-6.journalist cannot fix N2 until Dinis attaches the website to its session."
     },
     {
       "at": "2026-11-26T20:33Z",
@@ -247,6 +247,10 @@
     {
       "at": "2026-11-27T10:18Z",
       "event": "Hand-over state written to restart.md. Strikes page ready, waiting only on Dinis attaching the repository (window to 11:59 UTC). IaC #34-#37 security-passed, for Dinis's merge; P19 waits on him. Eight sections pushed or preparing key branches; release.sh passed for eight. Telemetry 10:14: session $137.48, $6.47/h since 21:17, context 739k of 1M."
+    },
+    {
+      "at": "2026-11-27T18:35Z",
+      "what": "Data 18:03 release stopped on 44 regenerated vaults/ files; decisions (91f1f14) ruled an interim (stash vaults/, release data/ only, release.sh unchanged); data released v0.1.159 on 526dd0b at 18:16 UTC, checked live; vaults/*/latest/** grant first on Dinis's questions. Weather refreshed (07c14dc). Strikes: abp dropped add_repo (1b338c0); maestro has the strikes publishing session prepared and needs Dinis's 'yes, start the strikes session' in maestro's session; decisions told. Researcher found Open Mic Pitch Night, Faro, 17 Dec (8bc6178)."
     }
   ],
   "waiting_on": [
@@ -295,7 +299,7 @@
       "since": "2026-11-26T19:56Z"
     },
     {
-      "what": "Meter versus copy (cl-6.dev, 20:12): since 17 Nov min_share = 1 in data/billing/prices.json, so a page costs its whole price (1 to 3p) on opening; but /account/, the designer's explainer and chip spec, and Dinis's brief of today say share-read with a tenth minimum. Dinis chooses: (a) keep whole-price-on-open and fix the copy, or (b) share-read, min_share 0.1 (record, file owner, accountant checks totals: 3p article 0.3p to open; £5 about 1,600 openings or 166 full reads). Sent to cl-6.decisions@dinis 20:13; explainer page held until then. cl-6.decisions@dinis (20:12): Dinis's alone; it is putting it to him with the two content lines.",
+      "what": "Meter versus copy (cl-6.dev, 20:12): since 17 Nov min_share = 1 in data/billing/prices.json, so a page costs its whole price (1 to 3p) on opening; but /account/, the designer's explainer and chip spec, and Dinis's brief of today say share-read with a tenth minimum. Dinis chooses: (a) keep whole-price-on-open and fix the copy, or (b) share-read, min_share 0.1 (record, file owner, accountant checks totals: 3p article 0.3p to open; \u00a35 about 1,600 openings or 166 full reads). Sent to cl-6.decisions@dinis 20:13; explainer page held until then. cl-6.decisions@dinis (20:12): Dinis's alone; it is putting it to him with the two content lines.",
       "since": "2026-11-26T20:13Z"
     },
     {
@@ -413,7 +417,7 @@
       "since": "2026-11-26T11:23Z"
     },
     {
-      "what": "The Stripe Payment Link for PrompTugal.news (£5, one payment) and the account it pays into; top-up says 'coming soon' until then.",
+      "what": "The Stripe Payment Link for PrompTugal.news (\u00a35, one payment) and the account it pays into; top-up says 'coming soon' until then.",
       "since": "2026-11-26T13:56Z"
     },
     {
