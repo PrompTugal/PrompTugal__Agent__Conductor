@@ -259,6 +259,10 @@
     {
       "at": "2026-11-28T07:30Z",
       "what": "Night: Dinis asked for an admin section and a readable dashboard. Designer ran 5 loops with synthetic scoring (baseline ~1.5/5 to ~4.5/5); security ruled public/private (no answer lines public; default deny at sync); public /newsroom/status/ live v0.1.2414 -> v0.1.2417 -> v0.1.2419; /admin/ awaits Dinis's yes. Talk box made honest (v0.1.2410/2411); talk drain grant line with Dinis. github-pt retired on data (v0.1.168); register/docs one-off awaits Dinis. S19 self-enrolled key (account C) to Dinis; home-key-pins gate v0.1.2418. Data 07:03 run released v0.1.172 under the interim vaults ruling."
+    },
+    {
+      "at": "2026-11-28T08:05Z",
+      "what": "First signed place sync live in website v0.1.2423 (content 4ff520242, security reproduced bytes): 36 places + 18 now files, London untouched. P11c in force; place-signers.json pins cl-6.places (pinned by dev, confirmed by security). Loop: places refresh -> dev runs sync -> security byte check -> release. Data's discovery/claims/past/silves.json is data's own collector output, outside grant; added to Dinis's vaults question. places-wake prompt fix (sub-agents wording) on Dinis's list (questions.json 08c7396)."
     }
   ],
   "waiting_on": [
