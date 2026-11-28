@@ -267,6 +267,10 @@
     {
       "at": "2026-11-28T08:55Z",
       "what": "Tube chart stale 'under way' (checker, 4 flags since 26 Nov) fixed by dev: date-driven SVG v0.1.2425; round 2 v0.1.2426 (journalist's 'as TfL planned it' wording, PNGs regenerated per designer's conditions, security pixel-identical). Still open, needs journalist attach: article Time Out paragraph, 'next is 17 Dec' line, alt/caption, live-SVG embed (PNGs go stale 17 Dec). Designer approved status page More fold + 1100px left rail; built, with security."
+    },
+    {
+      "at": "2026-11-28T09:58Z",
+      "what": "P11c (place sync) found HELD by abp (record rests on endorsement delegation only, no Dinis words); decisions' 07:40Z 'in force' was wrong. v0.1.2423 place-sync run logged as a gap from that message, not dev's breach. Dev told to stop place sync; line put to Dinis at 'now'. S12 home 'future time' = stale 26 Nov now/*.json shown without date; dev fix c343426fb with security. Faro count: security rejected build-time fetch; sync-data-now needs two Dinis lines (abp). Rights confirmed camera links on /algarve/portimao/ and /portugal/lisboa/. Synthetic N2/N5/N6 for Vicky's lanes put to Dinis."
     }
   ],
   "waiting_on": [

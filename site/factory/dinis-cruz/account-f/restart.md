@@ -24,3 +24,4 @@ See `now.md`.
 - Before this session is archived: push everything; list anything held only here (scratchpad, context) in now.md; the new session confirms to cl-6.maestro that it has it all, and only then is the old one archived.
 
 - Talk drain routing rule (maestro, 28 Nov 02:25Z): comments about data.promptugal.news /status/ go to cl-6.data (session_016CrbJJKUtCUXi5dhrb3Ahs) by send_message, once the drain is granted.
+- Lesson (28 Nov 09:58Z): 'in force' only from a record whose authority holds Dinis's session + event_uuid; check with abp before telling a lane to act on a grant.
