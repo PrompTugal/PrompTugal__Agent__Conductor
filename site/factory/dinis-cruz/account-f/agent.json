@@ -263,6 +263,10 @@
     {
       "at": "2026-11-28T08:05Z",
       "what": "First signed place sync live in website v0.1.2423 (content 4ff520242, security reproduced bytes): 36 places + 18 now files, London untouched. P11c in force; place-signers.json pins cl-6.places (pinned by dev, confirmed by security). Loop: places refresh -> dev runs sync -> security byte check -> release. Data's discovery/claims/past/silves.json is data's own collector output, outside grant; added to Dinis's vaults question. places-wake prompt fix (sub-agents wording) on Dinis's list (questions.json 08c7396)."
+    },
+    {
+      "at": "2026-11-28T08:55Z",
+      "what": "Tube chart stale 'under way' (checker, 4 flags since 26 Nov) fixed by dev: date-driven SVG v0.1.2425; round 2 v0.1.2426 (journalist's 'as TfL planned it' wording, PNGs regenerated per designer's conditions, security pixel-identical). Still open, needs journalist attach: article Time Out paragraph, 'next is 17 Dec' line, alt/caption, live-SVG embed (PNGs go stale 17 Dec). Designer approved status page More fold + 1100px left rail; built, with security."
     }
   ],
   "waiting_on": [
